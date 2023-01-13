@@ -16,7 +16,7 @@ This includes homework programming tasks, and the group project for the class wh
 <br/><br/>
 
 ## Homework Programming Tasks
-- __[Homework 4](Homework Programming Tasks)__
+- __[Homework 4](Homework-Programming-Tasks)__
 - __[Homework 5]()__
 - __[Homework 6]()__
 - __[Homework 7]()__
