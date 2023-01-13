@@ -13,3 +13,6 @@ This includes homework programming tasks, and the group project for the class wh
 - __[Milestone 2](https://github.com/ajc3xc/IST-5520-Work/tree/main/Group-Project/Milestone2)__
 - __[Milestone 3](https://github.com/ajc3xc/IST-5520-Work/tree/main/Group-Project/Milestone3)__
 - __[Milestone 4](https://github.com/ajc3xc/IST-5520-Work/tree/main/Group-Project/Milestone4)__
+<br/><br/>
+
+## Homework Programming Tasks
