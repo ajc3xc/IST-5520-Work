@@ -9,4 +9,4 @@ This includes homework files, and the group project for the class which I contri
 
 ## Group Project
 - __[Literature]__
-- __[Milestone 1][Milestone1](https://github.com/ajc3xc/IST-5520-Work/tree/main/Group-Project/Milestone1)__
+- __[Milestone 1](https://github.com/ajc3xc/IST-5520-Work/tree/main/Group-Project/Milestone1)__
