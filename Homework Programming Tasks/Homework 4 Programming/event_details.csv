@@ -1,0 +1,1001 @@
+"event_name","category_name","category_group","city","date","month","total_sold","total_sales"
+"Jersey Boys","Musicals","Shows","New York City","2008-05-22T00:00:00.000Z",5,148,106226
+"Spring Awakening","Plays","Shows","New York City","2008-09-27T00:00:00.000Z",9,145,84105
+"Spamalot","Musicals","Shows","Las Vegas","2008-09-12T00:00:00.000Z",9,142,86495
+"Chicago","Musicals","Shows","New York City","2008-07-19T00:00:00.000Z",7,137,114325
+"August: Osage County","Plays","Shows","New York City","2008-12-13T00:00:00.000Z",12,131,102767
+"Oliver!","Musicals","Shows","New York City","2008-08-23T00:00:00.000Z",8,130,99996
+"The Country Girl","Plays","Shows","New York City","2008-08-02T00:00:00.000Z",8,128,104819
+"Miss Julie","Plays","Shows","New York City","2008-05-17T00:00:00.000Z",5,125,71628
+"High School Musical","Musicals","Shows","New York City","2008-03-26T00:00:00.000Z",3,124,142678
+"Phantom of the Opera","Musicals","Shows","Las Vegas","2008-10-29T00:00:00.000Z",10,122,135675
+"The Country Girl","Plays","Shows","New York City","2008-10-03T00:00:00.000Z",10,119,91504
+"The Seagull","Plays","Shows","New York City","2008-03-17T00:00:00.000Z",3,119,134330
+"Spamalot","Musicals","Shows","Las Vegas","2008-05-26T00:00:00.000Z",5,116,91865
+"Spring Awakening","Plays","Shows","New York City","2008-11-19T00:00:00.000Z",11,115,77230
+"Mamma Mia!","Musicals","Shows","New York City","2008-11-01T00:00:00.000Z",11,115,70950
+"South Pacific","Musicals","Shows","New York City","2008-10-25T00:00:00.000Z",10,112,129662
+"Jersey Boys","Musicals","Shows","New York City","2008-12-17T00:00:00.000Z",12,110,81566
+"Folies Bergere","Musicals","Shows","Las Vegas","2008-11-01T00:00:00.000Z",11,108,53435
+"The Country Girl","Plays","Shows","New York City","2008-08-20T00:00:00.000Z",8,108,91520
+"Spamalot","Musicals","Shows","Las Vegas","2008-05-08T00:00:00.000Z",5,108,80976
+"Dirty Dancing","Musicals","Shows","New York City","2008-11-13T00:00:00.000Z",11,107,79042
+"Mystere Cirque du Soleil","Musicals","Shows","Las Vegas","2008-08-26T00:00:00.000Z",8,106,109391
+"Glengarry Glen Ross","Plays","Shows","New York City","2008-12-05T00:00:00.000Z",12,106,100034
+"Cirque du Soleil","Plays","Shows","New York City","2008-09-21T00:00:00.000Z",9,105,66623
+"The Little Mermaid","Musicals","Shows","New York City","2008-03-14T00:00:00.000Z",3,105,138204
+"Live","Pop","Concerts","Detroit","2008-08-03T00:00:00.000Z",8,104,91917
+"The Tempest","Plays","Shows","New York City","2008-02-25T00:00:00.000Z",2,104,92203
+"Hedda Gabler","Plays","Shows","New York City","2008-10-12T00:00:00.000Z",10,103,78140
+"Hairspray","Musicals","Shows","New York City","2008-03-14T00:00:00.000Z",3,103,70477
+"Michael McDonald","Pop","Concerts","Toronto","2008-12-19T00:00:00.000Z",12,103,58537
+"State Fair","Musicals","Shows","New York City","2008-08-10T00:00:00.000Z",8,103,72841
+"Bloc Party","Pop","Concerts","Newark","2008-11-07T00:00:00.000Z",11,101,83281
+"Greg Kihn Band","Pop","Concerts","San Diego","2008-06-22T00:00:00.000Z",6,101,73384
+"Cirque du Soleil","Plays","Shows","New York City","2008-09-15T00:00:00.000Z",9,100,61819
+"Janet Jackson","Pop","Concerts","Pittsburgh","2008-04-28T00:00:00.000Z",4,100,147871
+"Endgame","Plays","Shows","New York City","2008-12-23T00:00:00.000Z",12,99,74439
+"West Side Story","Musicals","Shows","New York City","2008-04-09T00:00:00.000Z",4,99,74870
+"Gordon Lightfoot","Pop","Concerts","Seattle","2008-03-15T00:00:00.000Z",3,98,106916
+"Wicked","Plays","Shows","New York City","2008-05-16T00:00:00.000Z",5,98,82318
+"American Idols Live","Pop","Concerts","Memphis","2008-11-17T00:00:00.000Z",11,97,87257
+"West Side Story","Musicals","Shows","New York City","2008-07-10T00:00:00.000Z",7,97,57579
+"Smashing Pumpkins","Pop","Concerts","East Rutherford","2008-06-07T00:00:00.000Z",6,97,51533
+"Built To Spill","Pop","Concerts","Indianapolis","2008-11-02T00:00:00.000Z",11,97,87879
+"Gotterdammerung","Opera","Shows","New York City","2008-10-04T00:00:00.000Z",10,96,72621
+"Celtic Thunder","Pop","Concerts","Milwaukee","2008-05-20T00:00:00.000Z",5,96,69419
+"Donny Osmond","Pop","Concerts","New York City","2008-03-08T00:00:00.000Z",3,96,86282
+"Foreigner","Pop","Concerts","Mountain View","2008-10-05T00:00:00.000Z",10,96,97596
+"Erykah Badu","Pop","Concerts","Atlanta","2008-05-25T00:00:00.000Z",5,95,44394
+"Romeo and Juliet","Plays","Shows","New York City","2008-03-29T00:00:00.000Z",3,95,72451
+"Bruce Springsteen","Pop","Concerts","Toronto","2008-07-02T00:00:00.000Z",7,95,112121
+"Le Reve","Musicals","Shows","Las Vegas","2008-11-03T00:00:00.000Z",11,95,48910
+"Spamalot","Musicals","Shows","Las Vegas","2008-06-01T00:00:00.000Z",6,95,90540
+"The Frogs","Plays","Shows","New York City","2008-03-18T00:00:00.000Z",3,94,79859
+"Missy Higgins","Pop","Concerts","Dallas","2008-07-08T00:00:00.000Z",7,94,54846
+"Endgame","Plays","Shows","New York City","2008-02-24T00:00:00.000Z",2,94,80348
+"The Seagull","Plays","Shows","New York City","2008-08-31T00:00:00.000Z",8,94,59340
+"L Elisir d Amore","Opera","Shows","San Francisco","2008-09-23T00:00:00.000Z",9,93,105357
+"Othello","Plays","Shows","New York City","2008-03-07T00:00:00.000Z",3,93,68760
+"Waiting for Godot","Plays","Shows","Boston","2008-03-01T00:00:00.000Z",3,93,68704
+"The Bacchae","Plays","Shows","New York City","2008-03-04T00:00:00.000Z",3,93,82271
+"The King and I","Musicals","Shows","New York City","2008-08-24T00:00:00.000Z",8,93,49012
+"August: Osage County","Plays","Shows","New York City","2008-10-03T00:00:00.000Z",10,93,45497
+"A Catered Affair","Musicals","Shows","New York City","2008-05-04T00:00:00.000Z",5,93,57538
+"Jersey Boys","Musicals","Shows","New York City","2008-06-16T00:00:00.000Z",6,93,66412
+"Lynyrd Skynyrd","Pop","Concerts","Milwaukee","2008-10-12T00:00:00.000Z",10,92,61918
+"Billy Joel","Pop","Concerts","East Rutherford","2008-04-23T00:00:00.000Z",4,92,102321
+"Jersey Boys","Musicals","Shows","New York City","2008-12-24T00:00:00.000Z",12,91,56751
+"Amos Lee","Pop","Concerts","Baltimore","2008-09-16T00:00:00.000Z",9,91,90247
+"The Bacchae","Plays","Shows","New York City","2008-11-06T00:00:00.000Z",11,91,92383
+"Kiss","Pop","Concerts","Kansas City","2008-06-10T00:00:00.000Z",6,91,83364
+"Maze","Pop","Concerts","Los Angeles","2008-10-14T00:00:00.000Z",10,91,63946
+"Wicked","Plays","Shows","New York City","2008-10-16T00:00:00.000Z",10,91,74358
+"Frankie Valli","Pop","Concerts","Chicago","2008-05-27T00:00:00.000Z",5,90,89150
+"Mamma Mia!","Musicals","Shows","New York City","2008-02-24T00:00:00.000Z",2,90,69341
+"Mamma Mia!","Musicals","Shows","New York City","2008-05-28T00:00:00.000Z",5,90,72856
+"Lyle Lovett","Pop","Concerts","Dallas","2008-06-01T00:00:00.000Z",6,90,48177
+"Oedipus the King","Plays","Shows","New York City","2008-05-28T00:00:00.000Z",5,90,58443
+"Insane Clown Posse","Pop","Concerts","New York City","2008-04-07T00:00:00.000Z",4,90,91819
+"Spring Awakening","Plays","Shows","New York City","2008-03-26T00:00:00.000Z",3,89,73544
+"Sugarland","Pop","Concerts","Glendale","2008-03-07T00:00:00.000Z",3,89,42988
+"Rock 'n' Roll","Plays","Shows","New York City","2008-04-15T00:00:00.000Z",4,89,47318
+"Jim Brickman","Pop","Concerts","Washington","2008-11-10T00:00:00.000Z",11,89,63485
+"Les Miserables","Musicals","Shows","San Jose","2008-10-02T00:00:00.000Z",10,88,52470
+"Paul Weller","Pop","Concerts","Calgary","2008-12-17T00:00:00.000Z",12,88,115922
+"Regina Spektor","Pop","Concerts","Charlotte","2008-06-07T00:00:00.000Z",6,88,41688
+"Miss Julie","Plays","Shows","New York City","2008-05-31T00:00:00.000Z",5,88,41019
+"Siegfried","Opera","Shows","Washington","2008-10-30T00:00:00.000Z",10,88,76408
+"Lindsey Buckingham","Pop","Concerts","Green Bay","2008-10-10T00:00:00.000Z",10,88,52105
+"High Society","Musicals","Shows","New York City","2008-04-11T00:00:00.000Z",4,88,60294
+"At The Gates","Pop","Concerts","Toronto","2008-03-19T00:00:00.000Z",3,88,157978
+"A Man For All Seasons","Plays","Shows","New York City","2008-07-13T00:00:00.000Z",7,88,99830
+"Uncle Vanya","Plays","Shows","New York City","2008-05-08T00:00:00.000Z",5,88,85083
+"Avenue Q","Plays","Shows","New York City","2008-06-29T00:00:00.000Z",6,87,88502
+"Brian Jonestown Massacre","Pop","Concerts","San Diego","2008-07-30T00:00:00.000Z",7,87,57908
+"Kiss Me Kate","Musicals","Shows","New York City","2008-12-05T00:00:00.000Z",12,87,117834
+"Decemberists","Pop","Concerts","New York City","2008-09-16T00:00:00.000Z",9,87,66647
+"Dierks Bentley","Pop","Concerts","Milwaukee","2008-05-12T00:00:00.000Z",5,87,56441
+"David Byrne","Pop","Concerts","Cincinnati","2008-10-08T00:00:00.000Z",10,87,59685
+"Avenue Q","Plays","Shows","New York City","2008-08-03T00:00:00.000Z",8,87,45035
+"Linkin Park","Pop","Concerts","Foxborough","2008-03-04T00:00:00.000Z",3,87,64875
+"Cirque du Soleil","Plays","Shows","New York City","2008-10-12T00:00:00.000Z",10,87,45644
+"The 39 Steps","Plays","Shows","New York City","2008-10-24T00:00:00.000Z",10,87,75435
+"Vampire Weekend","Pop","Concerts","Tampa","2008-06-28T00:00:00.000Z",6,86,58396
+"Mamma Mia!","Musicals","Shows","New York City","2008-12-31T00:00:00.000Z",12,86,51515
+"Wicked","Plays","Shows","New York City","2008-08-18T00:00:00.000Z",8,86,85627
+"All My Sons","Plays","Shows","New York City","2008-03-18T00:00:00.000Z",3,86,86018
+"Look Back in Anger","Plays","Shows","New York City","2008-04-01T00:00:00.000Z",4,86,41264
+"Kiss","Pop","Concerts","Denver","2008-04-06T00:00:00.000Z",4,86,47906
+"America","Pop","Concerts","Miami","2008-05-17T00:00:00.000Z",5,86,78085
+"The Seafarer","Plays","Shows","Seattle","2008-12-08T00:00:00.000Z",12,86,73312
+"Dolly Parton","Pop","Concerts","New Orleans","2008-08-23T00:00:00.000Z",8,86,53770
+"Madonna","Pop","Concerts","Baltimore","2008-10-08T00:00:00.000Z",10,86,125970
+"Coheed and Cambria","Pop","Concerts","Phoenix","2008-10-06T00:00:00.000Z",10,86,127120
+"The Glass Menagerie","Plays","Shows","New York City","2008-07-16T00:00:00.000Z",7,86,63062
+"Sevendust","Pop","Concerts","Memphis","2008-11-17T00:00:00.000Z",11,86,128194
+"Black Eyed Peas","Pop","Concerts","Dayton","2008-05-31T00:00:00.000Z",5,86,55550
+"Hedda Gabler","Plays","Shows","New York City","2008-09-07T00:00:00.000Z",9,86,66959
+"Brian Jonestown Massacre","Pop","Concerts","New York City","2008-04-16T00:00:00.000Z",4,86,62815
+"Ben Harper","Pop","Concerts","Chicago","2008-07-28T00:00:00.000Z",7,86,74305
+"Green Day","Pop","Concerts","New Orleans","2008-03-20T00:00:00.000Z",3,85,52173
+"A Bronx Tale","Plays","Shows","New York City","2008-11-21T00:00:00.000Z",11,85,51445
+"King Crimson","Pop","Concerts","Orchard Park","2008-07-17T00:00:00.000Z",7,85,74143
+"Maze","Pop","Concerts","St. Louis","2008-05-27T00:00:00.000Z",5,85,101087
+"Adriana Lecouvreur","Opera","Shows","Washington","2008-10-01T00:00:00.000Z",10,85,124800
+"The Tempest","Plays","Shows","New York City","2008-03-24T00:00:00.000Z",3,85,99328
+"Blue Man Group","Musicals","Shows","Las Vegas","2008-10-28T00:00:00.000Z",10,85,71149
+"The Whigs","Pop","Concerts","Orlando","2008-05-16T00:00:00.000Z",5,85,106398
+"The Lion King","Musicals","Shows","Los Angeles","2008-10-12T00:00:00.000Z",10,85,62117
+"Seven Brides for Seven Brothers","Musicals","Shows","New York City","2008-09-17T00:00:00.000Z",9,85,58404
+"Cirque du Soleil","Plays","Shows","New York City","2008-08-31T00:00:00.000Z",8,85,48415
+"The Caretaker","Plays","Shows","New York City","2008-05-15T00:00:00.000Z",5,84,79797
+"Wicked","Plays","Shows","New York City","2008-11-20T00:00:00.000Z",11,84,54303
+"The Phantom of the Opera","Musicals","Shows","Los Angeles","2008-11-07T00:00:00.000Z",11,84,72347
+"Glengarry Glen Ross","Plays","Shows","New York City","2008-03-07T00:00:00.000Z",3,84,90419
+"Gipsy Kings","Pop","Concerts","St. Petersburg","2008-07-09T00:00:00.000Z",7,84,94979
+"Spring Awakening","Plays","Shows","New York City","2008-08-18T00:00:00.000Z",8,84,53844
+"A Catered Affair","Musicals","Shows","Boston","2008-08-17T00:00:00.000Z",8,84,57091
+"Woyzeck","Plays","Shows","New York City","2008-02-28T00:00:00.000Z",2,84,95729
+"Brand New","Pop","Concerts","Pittsburgh","2008-09-08T00:00:00.000Z",9,84,61191
+"Simple Plan","Pop","Concerts","Milwaukee","2008-11-09T00:00:00.000Z",11,83,54020
+"Our Town","Plays","Shows","New York City","2008-12-26T00:00:00.000Z",12,83,78057
+"Mystere Cirque du Soleil","Musicals","Shows","Las Vegas","2008-05-03T00:00:00.000Z",5,83,68403
+"A Man For All Seasons","Plays","Shows","New York City","2008-07-17T00:00:00.000Z",7,83,55298
+"All My Sons","Plays","Shows","New York City","2008-12-12T00:00:00.000Z",12,83,67544
+"Mamma Mia!","Musicals","Shows","New York City","2008-07-04T00:00:00.000Z",7,83,66234
+"Rock 'n' Roll","Plays","Shows","New York City","2008-08-31T00:00:00.000Z",8,83,84100
+"Il Trovatore","Opera","Shows","San Francisco","2008-12-27T00:00:00.000Z",12,83,54147
+"Flogging Molly","Pop","Concerts","Boston","2008-03-25T00:00:00.000Z",3,83,60789
+"Wicked","Plays","Shows","Boston","2008-07-10T00:00:00.000Z",7,83,113773
+"Snoop Dogg","Pop","Concerts","Montreal","2008-03-14T00:00:00.000Z",3,83,53533
+"Eagles","Pop","Concerts","Santa Clara","2008-05-24T00:00:00.000Z",5,82,42869
+"The 39 Steps","Plays","Shows","New York City","2008-06-18T00:00:00.000Z",6,82,82851
+"Legally Blonde","Musicals","Shows","Las Vegas","2008-03-02T00:00:00.000Z",3,82,41683
+"Conor Oberst","Pop","Concerts","Newark","2008-12-21T00:00:00.000Z",12,82,78471
+"Celtic Thunder","Pop","Concerts","San Diego","2008-11-09T00:00:00.000Z",11,82,40439
+"A Bronx Tale","Plays","Shows","New York City","2008-02-27T00:00:00.000Z",2,82,66882
+"Boris Godunov","Opera","Shows","Detroit","2008-09-19T00:00:00.000Z",9,82,55715
+"Kool and The Gang","Pop","Concerts","Tampa","2008-05-27T00:00:00.000Z",5,82,110786
+"Smash Mouth","Pop","Concerts","Charlotte","2008-09-18T00:00:00.000Z",9,82,64426
+"The Seafarer","Plays","Shows","New York City","2008-12-06T00:00:00.000Z",12,82,76369
+"Flower Drum Song","Musicals","Shows","New York City","2008-08-05T00:00:00.000Z",8,82,39488
+"The Birds (Die Vogel)","Opera","Shows","Detroit","2008-11-16T00:00:00.000Z",11,82,69202
+"Gavin DeGraw","Pop","Concerts","Anaheim","2008-08-31T00:00:00.000Z",8,81,80364
+"Shrek the Musical","Musicals","Shows","New York City","2008-06-22T00:00:00.000Z",6,81,48574
+"Tokyo Police Club","Pop","Concerts","Seattle","2008-09-30T00:00:00.000Z",9,81,60941
+"Sara Evans","Pop","Concerts","Houston","2008-04-17T00:00:00.000Z",4,81,44007
+"Ted Nugent","Pop","Concerts","Atlanta","2008-09-10T00:00:00.000Z",9,81,32507
+"Keb Mo","Pop","Concerts","Buffalo","2008-08-25T00:00:00.000Z",8,81,95306
+"Ryan Adams","Pop","Concerts","Green Bay","2008-08-30T00:00:00.000Z",8,81,107913
+"Waiting for Godot","Plays","Shows","Minneapolis","2008-10-25T00:00:00.000Z",10,81,53924
+"Rush","Pop","Concerts","Washington","2008-12-10T00:00:00.000Z",12,81,53814
+"Thurgood","Plays","Shows","Los Angeles","2008-09-12T00:00:00.000Z",9,81,63755
+"The Guess Who","Pop","Concerts","Boston","2008-02-28T00:00:00.000Z",2,81,44833
+"South Pacific","Musicals","Shows","New York City","2008-11-15T00:00:00.000Z",11,81,103854
+"Simple Plan","Pop","Concerts","Washington","2008-09-22T00:00:00.000Z",9,81,78588
+"Sweet Honey in the Rock","Pop","Concerts","San Jose","2008-11-10T00:00:00.000Z",11,81,62242
+"Mariah Carey","Pop","Concerts","Detroit","2008-12-03T00:00:00.000Z",12,81,37398
+"Boyz II Men","Pop","Concerts","Milwaukee","2008-08-27T00:00:00.000Z",8,80,107792
+"George Thorogood and the Destroyers","Pop","Concerts","Washington","2008-09-04T00:00:00.000Z",9,80,55046
+"Celtic Thunder","Pop","Concerts","Bridgeview","2008-10-11T00:00:00.000Z",10,80,56340
+"A Bronx Tale","Plays","Shows","Pasadena","2008-12-15T00:00:00.000Z",12,80,55099
+"Idina Menzel","Pop","Concerts","Hershey","2008-11-25T00:00:00.000Z",11,80,51512
+"Toby Keith","Pop","Concerts","Saratoga","2008-09-08T00:00:00.000Z",9,80,44428
+"Trisha Yearwood","Pop","Concerts","San Diego","2008-06-03T00:00:00.000Z",6,80,99703
+"Wallflowers","Pop","Concerts","Oklahoma City","2008-08-27T00:00:00.000Z",8,80,78791
+"Celtic Thunder","Pop","Concerts","Sacramento","2008-08-31T00:00:00.000Z",8,80,71748
+"Bruce Hornsby","Pop","Concerts","Tampa","2008-10-31T00:00:00.000Z",10,79,61563
+"Doobie Brothers","Pop","Concerts","Saratoga","2008-09-12T00:00:00.000Z",9,79,58158
+"Ana Gabriel","Pop","Concerts","Phoenix","2008-06-18T00:00:00.000Z",6,79,77629
+"The Seafarer","Plays","Shows","New York City","2008-11-06T00:00:00.000Z",11,79,51641
+"Endgame","Plays","Shows","New York City","2008-09-02T00:00:00.000Z",9,79,55394
+"Eugene Onegin","Opera","Shows","New York City","2008-11-11T00:00:00.000Z",11,79,49493
+"Eva Ayllon","Pop","Concerts","Toronto","2008-05-08T00:00:00.000Z",5,79,51347
+"Passing Strange","Plays","Shows","New York City","2008-03-04T00:00:00.000Z",3,79,55177
+"Avenue Q","Plays","Shows","New York City","2008-02-23T00:00:00.000Z",2,79,51971
+"Cirque du Soleil","Plays","Shows","New York City","2008-04-20T00:00:00.000Z",4,79,53872
+"All My Sons","Plays","Shows","Pasadena","2008-09-25T00:00:00.000Z",9,79,92682
+"Lynyrd Skynyrd","Pop","Concerts","Houston","2008-11-29T00:00:00.000Z",11,79,75430
+"Folies Bergere","Musicals","Shows","Las Vegas","2008-09-12T00:00:00.000Z",9,78,76680
+"Goo Goo Dolls","Pop","Concerts","Cincinnati","2008-06-28T00:00:00.000Z",6,78,37611
+"Cafe Tacuba","Pop","Concerts","Atlanta","2008-11-01T00:00:00.000Z",11,78,61916
+"Donna Summer","Pop","Concerts","Saratoga","2008-05-24T00:00:00.000Z",5,78,53654
+"Hall and Oates","Pop","Concerts","Green Bay","2008-11-03T00:00:00.000Z",11,78,46078
+"Citizen Cope","Pop","Concerts","Calgary","2008-09-13T00:00:00.000Z",9,78,56472
+"Electra","Plays","Shows","New York City","2008-12-20T00:00:00.000Z",12,78,92052
+"Janet Jackson","Pop","Concerts","Carson","2008-02-21T00:00:00.000Z",2,78,60964
+"The Jesus and Mary Chain","Pop","Concerts","Indianapolis","2008-06-21T00:00:00.000Z",6,78,51890
+"Celtic Thunder","Pop","Concerts","Anaheim","2008-08-31T00:00:00.000Z",8,78,53359
+"High School Musical","Musicals","Shows","New York City","2008-10-25T00:00:00.000Z",10,78,51653
+"The National","Pop","Concerts","Phoenix","2008-09-25T00:00:00.000Z",9,78,48198
+"Reba McEntire","Pop","Concerts","Toronto","2008-02-28T00:00:00.000Z",2,78,38196
+"A Doll's House","Plays","Shows","New York City","2008-08-10T00:00:00.000Z",8,78,52129
+"Counting Crows and Maroon 5","Pop","Concerts","St. Paul","2008-04-04T00:00:00.000Z",4,77,105925
+"Emmylou Harris","Pop","Concerts","Ottawa","2008-03-22T00:00:00.000Z",3,77,86521
+".38 Special","Pop","Concerts","Frisco","2008-04-26T00:00:00.000Z",4,77,55229
+"Neil Diamond","Pop","Concerts","Commerce City","2008-06-18T00:00:00.000Z",6,77,86385
+"A Christmas Carol","Plays","Shows","Los Angeles","2008-12-13T00:00:00.000Z",12,77,120335
+"Mike Gordon","Pop","Concerts","New Orleans","2008-04-06T00:00:00.000Z",4,77,50951
+"Spring Awakening","Plays","Shows","New York City","2008-12-09T00:00:00.000Z",12,77,39115
+"Grease","Musicals","Shows","New York City","2008-05-21T00:00:00.000Z",5,77,76897
+"Dropkick Murphys","Pop","Concerts","Orchard Park","2008-03-28T00:00:00.000Z",3,77,77889
+"Young Frankenstein","Plays","Shows","New York City","2008-07-19T00:00:00.000Z",7,77,79509
+"Vans Warped Tour","Pop","Concerts","Chicago","2008-08-13T00:00:00.000Z",8,77,67513
+"The Lion King","Musicals","Shows","New York City","2008-03-06T00:00:00.000Z",3,77,59046
+"Julius Caesar","Plays","Shows","New York City","2008-09-14T00:00:00.000Z",9,77,64904
+"The Seagull","Plays","Shows","New York City","2008-06-24T00:00:00.000Z",6,77,63586
+"Great Big Sea","Pop","Concerts","Cleveland","2008-07-09T00:00:00.000Z",7,77,48211
+"Ana Gabriel","Pop","Concerts","Charlotte","2008-07-08T00:00:00.000Z",7,77,50277
+"Radiohead","Pop","Concerts","San Diego","2008-07-03T00:00:00.000Z",7,77,56250
+"Blue Man Group How To Be A Megastar Tour","Pop","Concerts","San Diego","2008-09-25T00:00:00.000Z",9,77,76592
+"Buckcherry","Pop","Concerts","Charleston","2008-06-21T00:00:00.000Z",6,77,41722
+"O - Cirque du Soleil","Musicals","Shows","Las Vegas","2008-04-04T00:00:00.000Z",4,77,64452
+"August: Osage County","Plays","Shows","New York City","2008-03-05T00:00:00.000Z",3,77,38224
+"Spring Awakening","Plays","Shows","New York City","2008-11-24T00:00:00.000Z",11,77,51906
+"Glengarry Glen Ross","Plays","Shows","Minneapolis","2008-12-21T00:00:00.000Z",12,77,87788
+"The Glass Menagerie","Plays","Shows","New York City","2008-10-13T00:00:00.000Z",10,76,63637
+"Paul Weller","Pop","Concerts","Philadelphia","2008-05-02T00:00:00.000Z",5,76,39633
+"Feist","Pop","Concerts","Minneapolis","2008-02-24T00:00:00.000Z",2,76,54688
+"Othello","Plays","Shows","New York City","2008-11-09T00:00:00.000Z",11,76,32596
+"Smokey Robinson","Pop","Concerts","Baltimore","2008-11-08T00:00:00.000Z",11,76,62004
+"The Frogs","Plays","Shows","New York City","2008-04-02T00:00:00.000Z",4,76,62084
+"Kansas","Pop","Concerts","Baltimore","2008-05-18T00:00:00.000Z",5,76,59796
+"Engelbert Humperdinck","Pop","Concerts","Miami","2008-10-24T00:00:00.000Z",10,76,73424
+"Trisha Yearwood","Pop","Concerts","St. Louis","2008-10-08T00:00:00.000Z",10,76,79867
+"Dixie Chicks","Pop","Concerts","Salt Lake City","2008-04-10T00:00:00.000Z",4,76,52925
+"Iphigenia","Plays","Shows","New York City","2008-12-09T00:00:00.000Z",12,76,62020
+"Young Frankenstein","Plays","Shows","New York City","2008-06-08T00:00:00.000Z",6,76,63148
+"Passing Strange","Plays","Shows","New York City","2008-08-16T00:00:00.000Z",8,76,44297
+"November","Plays","Shows","New York City","2008-05-23T00:00:00.000Z",5,76,51157
+"L Elisir d Amore","Opera","Shows","Baltimore","2008-03-26T00:00:00.000Z",3,76,62874
+"Regina Spektor","Pop","Concerts","Saratoga","2008-07-30T00:00:00.000Z",7,76,46098
+"Gary Allan","Pop","Concerts","Atlanta","2008-05-12T00:00:00.000Z",5,76,42465
+"Fiddler on the Roof","Musicals","Shows","Seattle","2008-04-24T00:00:00.000Z",4,76,73188
+"Jessica Simpson","Pop","Concerts","Irving","2008-03-19T00:00:00.000Z",3,76,81720
+"Neil Diamond","Pop","Concerts","Auburn Hills","2008-11-19T00:00:00.000Z",11,76,113150
+"Extreme","Pop","Concerts","Washington","2008-05-11T00:00:00.000Z",5,76,49705
+"Passing Strange","Plays","Shows","New York City","2008-12-01T00:00:00.000Z",12,76,63316
+"Insane Clown Posse","Pop","Concerts","Houston","2008-07-13T00:00:00.000Z",7,75,82886
+"Legally Blonde","Musicals","Shows","Las Vegas","2008-03-14T00:00:00.000Z",3,75,56791
+"Kenny Loggins","Pop","Concerts","Edmonton","2008-10-03T00:00:00.000Z",10,75,61628
+"Broken Social Scene","Pop","Concerts","Nashville","2008-08-07T00:00:00.000Z",8,75,46675
+"Celtic Thunder","Pop","Concerts","Santa Clara","2008-03-25T00:00:00.000Z",3,75,80840
+"Coheed and Cambria","Pop","Concerts","Commerce City","2008-05-30T00:00:00.000Z",5,75,40723
+"Spoon","Pop","Concerts","Saratoga Springs","2008-10-28T00:00:00.000Z",10,75,42332
+"Black Kids","Pop","Concerts","Washington","2008-08-01T00:00:00.000Z",8,75,84616
+"Orfeo ed Euridice","Opera","Shows","New York City","2008-11-12T00:00:00.000Z",11,75,66198
+"Teddy Geiger","Pop","Concerts","Kansas City","2008-03-14T00:00:00.000Z",3,75,49770
+"Wolf Parade","Pop","Concerts","Memphis","2008-04-03T00:00:00.000Z",4,75,54450
+"Rock 'n' Roll","Plays","Shows","New York City","2008-06-25T00:00:00.000Z",6,75,51414
+"Nine Inch Nails","Pop","Concerts","Denver","2008-07-16T00:00:00.000Z",7,75,100722
+"Squeeze","Pop","Concerts","Los Angeles","2008-08-24T00:00:00.000Z",8,75,60715
+"The Country Girl","Plays","Shows","New York City","2008-03-01T00:00:00.000Z",3,75,53534
+"Huey Lewis and the News","Pop","Concerts","Glendale","2008-11-25T00:00:00.000Z",11,75,52362
+"Buckcherry","Pop","Concerts","Washington","2008-12-25T00:00:00.000Z",12,75,66333
+"November","Plays","Shows","New York City","2008-05-03T00:00:00.000Z",5,75,50249
+"Legally Blonde","Musicals","Shows","Las Vegas","2008-12-23T00:00:00.000Z",12,75,69946
+"Pal Joey","Musicals","Shows","New York City","2008-05-22T00:00:00.000Z",5,75,48003
+"Vampire Weekend","Pop","Concerts","Miami","2008-09-05T00:00:00.000Z",9,75,60813
+"Janet Jackson","Pop","Concerts","Orchard Park","2008-07-10T00:00:00.000Z",7,75,105333
+"Chicago","Musicals","Shows","New York City","2008-08-14T00:00:00.000Z",8,75,39461
+"Cute Is What We Aim For","Pop","Concerts","Montreal","2008-12-18T00:00:00.000Z",12,75,57630
+"Wolf Parade","Pop","Concerts","Oakland","2008-07-28T00:00:00.000Z",7,75,52133
+"Hermans Hermits","Pop","Concerts","New York City","2008-07-17T00:00:00.000Z",7,74,72350
+"Siegfried","Opera","Shows","Baltimore","2008-08-09T00:00:00.000Z",8,74,35930
+"Macbeth","Plays","Shows","New York City","2008-04-05T00:00:00.000Z",4,74,39838
+"Hairspray","Musicals","Shows","San Francisco","2008-03-15T00:00:00.000Z",3,74,58142
+"Blue Man Group How To Be A Megastar Tour","Pop","Concerts","Glendale","2008-04-27T00:00:00.000Z",4,74,69328
+"Idina Menzel","Pop","Concerts","Commerce City","2008-12-09T00:00:00.000Z",12,74,59038
+"Hannah Montana","Pop","Concerts","San Francisco","2008-12-07T00:00:00.000Z",12,74,51279
+"A Catered Affair","Musicals","Shows","New York City","2008-10-31T00:00:00.000Z",10,74,66657
+"Gary Allan","Pop","Concerts","St. Louis","2008-09-07T00:00:00.000Z",9,74,71379
+"Built To Spill","Pop","Concerts","St. Louis","2008-10-24T00:00:00.000Z",10,74,59072
+"The Seagull","Plays","Shows","New York City","2008-08-09T00:00:00.000Z",8,74,59575
+"KT Tunstall","Pop","Concerts","Calgary","2008-12-28T00:00:00.000Z",12,74,89260
+"Armando Manzanero","Pop","Concerts","Anaheim","2008-04-15T00:00:00.000Z",4,74,36831
+"Steven Curtis Chapman","Pop","Concerts","Houston","2008-06-14T00:00:00.000Z",6,74,40000
+"Bruce Hornsby","Pop","Concerts","Philadelphia","2008-10-10T00:00:00.000Z",10,74,47453
+"Indigo Girls","Pop","Concerts","Vancouver","2008-03-23T00:00:00.000Z",3,74,55951
+"The Cherry Orchard","Plays","Shows","New York City","2008-10-03T00:00:00.000Z",10,74,37772
+"Passing Strange","Plays","Shows","New York City","2008-12-30T00:00:00.000Z",12,74,60683
+"REO Speedwagon","Pop","Concerts","Redwood City","2008-04-02T00:00:00.000Z",4,74,61705
+"Donna Summer","Pop","Concerts","Denver","2008-09-14T00:00:00.000Z",9,74,57448
+"Avenue Q","Plays","Shows","New York City","2008-03-29T00:00:00.000Z",3,74,62157
+"Ryan Adams","Pop","Concerts","Montreal","2008-10-28T00:00:00.000Z",10,74,90049
+"Motorhead","Pop","Concerts","Carson","2008-06-04T00:00:00.000Z",6,74,108283
+"Rhinoceros","Plays","Shows","New York City","2008-09-10T00:00:00.000Z",9,74,38294
+"La Damnation de Faust","Opera","Shows","San Francisco","2008-08-12T00:00:00.000Z",8,74,36265
+"La Damnation de Faust","Opera","Shows","New York City","2008-06-21T00:00:00.000Z",6,74,43320
+"Motley Crue","Pop","Concerts","Dayton","2008-11-17T00:00:00.000Z",11,74,59821
+"Huey Lewis and the News","Pop","Concerts","Toronto","2008-09-22T00:00:00.000Z",9,74,50797
+"Yaz","Pop","Concerts","Seattle","2008-12-26T00:00:00.000Z",12,73,89143
+"The Country Girl","Plays","Shows","Los Angeles","2008-12-25T00:00:00.000Z",12,73,55189
+"Celtic Thunder","Pop","Concerts","Baltimore","2008-10-28T00:00:00.000Z",10,73,41835
+"Idina Menzel","Pop","Concerts","New York City","2008-03-16T00:00:00.000Z",3,73,70622
+"Projekt Revolution","Pop","Concerts","Pittsburgh","2008-07-10T00:00:00.000Z",7,73,72158
+"Shakira","Pop","Concerts","Seattle","2008-04-26T00:00:00.000Z",4,73,83346
+"The Guess Who","Pop","Concerts","Sacramento","2008-02-28T00:00:00.000Z",2,73,40530
+"Little River Band","Pop","Concerts","Chicago","2008-05-21T00:00:00.000Z",5,73,32951
+"The Seagull","Plays","Shows","New York City","2008-09-11T00:00:00.000Z",9,73,60607
+"Mamma Mia!","Musicals","Shows","Las Vegas","2008-08-30T00:00:00.000Z",8,73,41661
+"Rush","Pop","Concerts","Los Angeles","2008-07-20T00:00:00.000Z",7,73,35571
+"Mamma Mia!","Musicals","Shows","New York City","2008-06-06T00:00:00.000Z",6,73,122478
+"Romeo and Juliet","Plays","Shows","New York City","2008-05-29T00:00:00.000Z",5,73,45264
+"Sound Tribe Sector 9","Pop","Concerts","Baltimore","2008-07-05T00:00:00.000Z",7,73,53674
+"Judas Priest","Pop","Concerts","Commerce City","2008-10-30T00:00:00.000Z",10,73,43168
+"Motorhead","Pop","Concerts","Landover","2008-07-24T00:00:00.000Z",7,73,46050
+"Gotterdammerung","Opera","Shows","Los Angeles","2008-11-02T00:00:00.000Z",11,73,65538
+"Oasis","Pop","Concerts","Sacramento","2008-02-20T00:00:00.000Z",2,73,68553
+"Paramore","Pop","Concerts","St. Paul","2008-11-16T00:00:00.000Z",11,73,48224
+"Alkaline Trio","Pop","Concerts","Commerce City","2008-12-16T00:00:00.000Z",12,73,57381
+"Wilco","Pop","Concerts","Hershey","2008-07-23T00:00:00.000Z",7,73,61221
+"Lucia di Lammermoor","Opera","Shows","Galveston","2008-03-03T00:00:00.000Z",3,73,43647
+"Jethro Tull","Pop","Concerts","Atlanta","2008-10-13T00:00:00.000Z",10,73,73413
+"November","Plays","Shows","New York City","2008-12-19T00:00:00.000Z",12,73,67181
+"Bullet for My Valentine","Pop","Concerts","Philadelphia","2008-07-30T00:00:00.000Z",7,73,62440
+"Don Giovanni","Opera","Shows","San Francisco","2008-12-29T00:00:00.000Z",12,73,50598
+"Southside Johnny & the Asbury Jukes","Pop","Concerts","Orchard Park","2008-06-05T00:00:00.000Z",6,73,63762
+"Mary Poppins","Musicals","Shows","New York City","2008-07-15T00:00:00.000Z",7,73,62425
+"Cher","Pop","Concerts","Dayton","2008-06-17T00:00:00.000Z",6,73,56784
+"Rock The Bayou","Pop","Concerts","St. Paul","2008-03-22T00:00:00.000Z",3,73,43684
+"Nick Cave","Pop","Concerts","Redwood City","2008-05-30T00:00:00.000Z",5,73,38025
+"Rosencrantz and Guildenstern Are Dead","Plays","Shows","New York City","2008-09-25T00:00:00.000Z",9,72,62553
+"Huey Lewis and the News","Pop","Concerts","Houston","2008-12-10T00:00:00.000Z",12,72,48784
+"Curtains","Musicals","Shows","New York City","2008-07-25T00:00:00.000Z",7,72,36215
+"Elton John","Pop","Concerts","Mountain View","2008-12-18T00:00:00.000Z",12,72,48361
+"The Black Keys","Pop","Concerts","St. Louis","2008-08-06T00:00:00.000Z",8,72,32127
+"The Caretaker","Plays","Shows","New York City","2008-03-31T00:00:00.000Z",3,72,60047
+"Suzanne Vega","Pop","Concerts","Frisco","2008-05-01T00:00:00.000Z",5,72,75178
+"Les Miserables","Musicals","Shows","New York City","2008-04-22T00:00:00.000Z",4,72,42995
+"Our Town","Plays","Shows","New York City","2008-12-19T00:00:00.000Z",12,72,33261
+"Romeo and Juliet","Plays","Shows","Los Angeles","2008-06-28T00:00:00.000Z",6,72,40427
+"70s Soul Jam","Pop","Concerts","Irving","2008-09-06T00:00:00.000Z",9,72,29662
+"My Morning Jacket","Pop","Concerts","Mountain View","2008-09-16T00:00:00.000Z",9,72,50451
+"The Farnsworth Invention","Plays","Shows","New York City","2008-07-09T00:00:00.000Z",7,72,50304
+"Robert Cray Band","Pop","Concerts","St. Louis","2008-11-25T00:00:00.000Z",11,72,80273
+"Hairspray","Musicals","Shows","New York City","2008-08-05T00:00:00.000Z",8,72,43546
+"Cafe Tacuba","Pop","Concerts","Oakland","2008-05-17T00:00:00.000Z",5,72,50643
+"Kenny Loggins","Pop","Concerts","Kansas City","2008-11-26T00:00:00.000Z",11,72,53462
+"November","Plays","Shows","New York City","2008-03-09T00:00:00.000Z",3,72,64911
+"Electra","Plays","Shows","New York City","2008-03-07T00:00:00.000Z",3,72,98088
+"Madonna","Pop","Concerts","New Orleans","2008-05-15T00:00:00.000Z",5,72,56966
+"Glengarry Glen Ross","Plays","Shows","San Jose","2008-10-01T00:00:00.000Z",10,72,41727
+"The Country Girl","Plays","Shows","Boston","2008-04-04T00:00:00.000Z",4,72,85962
+"Amos Lee","Pop","Concerts","Redwood City","2008-06-12T00:00:00.000Z",6,72,23723
+"Bette Midler","Pop","Concerts","Chicago","2008-04-01T00:00:00.000Z",4,72,72284
+"Mystere Cirque du Soleil","Musicals","Shows","Las Vegas","2008-09-15T00:00:00.000Z",9,72,71296
+"Gotterdammerung","Opera","Shows","San Francisco","2008-10-12T00:00:00.000Z",10,72,46223
+"Steve Miller Band","Pop","Concerts","New York City","2008-11-24T00:00:00.000Z",11,72,63507
+"Sunday in the Country","Pop","Concerts","Cleveland","2008-02-27T00:00:00.000Z",2,72,39160
+"Mystere Cirque du Soleil","Musicals","Shows","Las Vegas","2008-07-24T00:00:00.000Z",7,72,58316
+"Kanye West","Pop","Concerts","Seattle","2008-07-03T00:00:00.000Z",7,72,43787
+"Uncle Vanya","Plays","Shows","New York City","2008-07-20T00:00:00.000Z",7,72,50495
+"Rick Braun","Pop","Concerts","Houston","2008-10-18T00:00:00.000Z",10,72,42098
+"Oliver!","Musicals","Shows","New York City","2008-08-26T00:00:00.000Z",8,72,47317
+"The Seagull","Plays","Shows","San Jose","2008-11-10T00:00:00.000Z",11,72,50019
+"Blue Man Group","Musicals","Shows","Las Vegas","2008-02-22T00:00:00.000Z",2,72,45867
+"The Cherry Orchard","Plays","Shows","Pasadena","2008-06-30T00:00:00.000Z",6,72,65459
+"Gretchen Wilson","Pop","Concerts","Indianapolis","2008-03-19T00:00:00.000Z",3,72,49251
+"Boris Godunov","Opera","Shows","San Francisco","2008-05-31T00:00:00.000Z",5,72,97240
+"My Bloody Valentine","Pop","Concerts","Houston","2008-08-10T00:00:00.000Z",8,72,41318
+"Rush","Pop","Concerts","Denver","2008-05-03T00:00:00.000Z",5,72,86902
+"Umphreys McGee","Pop","Concerts","Pittsburgh","2008-12-28T00:00:00.000Z",12,72,48530
+"Carrie Underwood","Pop","Concerts","Phoenix","2008-08-04T00:00:00.000Z",8,72,39747
+"Legally Blonde","Musicals","Shows","New York City","2008-11-19T00:00:00.000Z",11,72,87784
+"The King and I","Musicals","Shows","New York City","2008-10-11T00:00:00.000Z",10,72,77582
+"Shrek the Musical","Musicals","Shows","New York City","2008-05-29T00:00:00.000Z",5,72,36868
+"Waiting for Godot","Plays","Shows","New York City","2008-05-17T00:00:00.000Z",5,72,57687
+"Black Crowes","Pop","Concerts","Cincinnati","2008-03-04T00:00:00.000Z",3,72,66558
+"Woyzeck","Plays","Shows","Los Angeles","2008-06-22T00:00:00.000Z",6,72,88855
+"Rod Stewart","Pop","Concerts","Sunrise","2008-07-16T00:00:00.000Z",7,71,87965
+"O - Cirque du Soleil","Musicals","Shows","Las Vegas","2008-03-08T00:00:00.000Z",3,71,43211
+"Gypsy","Musicals","Shows","New York City","2008-11-04T00:00:00.000Z",11,71,52896
+"Cher","Pop","Concerts","San Francisco","2008-09-19T00:00:00.000Z",9,71,34015
+"Mamma Mia!","Musicals","Shows","Las Vegas","2008-07-30T00:00:00.000Z",7,71,55059
+"El Tri","Pop","Concerts","Edmonton","2008-05-03T00:00:00.000Z",5,71,53289
+"John Mellencamp","Pop","Concerts","Chicago","2008-09-05T00:00:00.000Z",9,71,80494
+"Young Frankenstein","Plays","Shows","New York City","2008-07-10T00:00:00.000Z",7,71,71579
+"Rodrigo y Gabriela","Pop","Concerts","Miami","2008-08-18T00:00:00.000Z",8,71,22892
+"A Man For All Seasons","Plays","Shows","New York City","2008-04-09T00:00:00.000Z",4,71,44430
+"Beatles LOVE","Musicals","Shows","Las Vegas","2008-06-27T00:00:00.000Z",6,71,69580
+"The Bacchae","Plays","Shows","New York City","2008-06-05T00:00:00.000Z",6,71,44689
+"Sheryl Crow","Pop","Concerts","Jacksonville","2008-04-15T00:00:00.000Z",4,71,58321
+"Dave Matthews Band","Pop","Concerts","Phoenix","2008-05-30T00:00:00.000Z",5,71,83269
+"Simon Boccanegra","Opera","Shows","Chicago","2008-11-23T00:00:00.000Z",11,71,31829
+"Maroon 5","Pop","Concerts","Green Bay","2008-03-27T00:00:00.000Z",3,71,39955
+"War","Pop","Concerts","Kansas City","2008-09-04T00:00:00.000Z",9,71,79590
+"Look Back in Anger","Plays","Shows","New York City","2008-08-24T00:00:00.000Z",8,71,51092
+"Steve Winwood","Pop","Concerts","New York City","2008-12-20T00:00:00.000Z",12,71,40089
+"The Glass Menagerie","Plays","Shows","Seattle","2008-03-08T00:00:00.000Z",3,71,43749
+"Die Walkure","Opera","Shows","Chicago","2008-09-07T00:00:00.000Z",9,71,96135
+"Sugarland","Pop","Concerts","Cincinnati","2008-05-15T00:00:00.000Z",5,71,34836
+"Black Crowes","Pop","Concerts","New York City","2008-10-12T00:00:00.000Z",10,71,54123
+"Chromeo","Pop","Concerts","Toronto","2008-06-02T00:00:00.000Z",6,71,37562
+"The National","Pop","Concerts","Washington","2008-04-18T00:00:00.000Z",4,71,45002
+"KT Tunstall","Pop","Concerts","Phoenix","2008-03-17T00:00:00.000Z",3,71,52412
+"Lucinda Williams","Pop","Concerts","San Francisco","2008-10-10T00:00:00.000Z",10,71,51910
+"Armando Manzanero","Pop","Concerts","Dayton","2008-07-04T00:00:00.000Z",7,71,64927
+"Citizen Cope","Pop","Concerts","Sacramento","2008-06-15T00:00:00.000Z",6,71,128351
+"Judas Priest","Pop","Concerts","New York City","2008-12-18T00:00:00.000Z",12,71,51637
+"South Pacific","Musicals","Shows","New York City","2008-11-25T00:00:00.000Z",11,71,74164
+"West Side Story","Musicals","Shows","New York City","2008-04-11T00:00:00.000Z",4,71,63904
+"Boris Godunov","Opera","Shows","Detroit","2008-11-25T00:00:00.000Z",11,71,38566
+"Black Eyed Peas","Pop","Concerts","Arlington","2008-05-14T00:00:00.000Z",5,71,38111
+"Uncle Vanya","Plays","Shows","New York City","2008-04-28T00:00:00.000Z",4,71,48803
+"Charlie Daniels Band","Pop","Concerts","Chicago","2008-03-02T00:00:00.000Z",3,71,73127
+"As You Like It","Plays","Shows","New York City","2008-09-26T00:00:00.000Z",9,71,42568
+"The Lion King","Musicals","Shows","San Francisco","2008-11-23T00:00:00.000Z",11,70,74737
+"Peter Frampton","Pop","Concerts","Seattle","2008-06-03T00:00:00.000Z",6,70,48864
+"Hamlet","Plays","Shows","New York City","2008-12-15T00:00:00.000Z",12,70,48492
+"Michael Bolton","Pop","Concerts","Saratoga Springs","2008-07-11T00:00:00.000Z",7,70,50436
+"O - Cirque du Soleil","Musicals","Shows","Las Vegas","2008-09-23T00:00:00.000Z",9,70,82172
+"Little River Band","Pop","Concerts","Philadelphia","2008-12-26T00:00:00.000Z",12,70,90546
+"Avril Lavigne","Pop","Concerts","Atlanta","2008-07-13T00:00:00.000Z",7,70,41908
+"Memphis - The Birth of Rock n Roll","Musicals","Shows","New York City","2008-09-30T00:00:00.000Z",9,70,49326
+"George Jones","Pop","Concerts","Milwaukee","2008-12-13T00:00:00.000Z",12,70,46540
+"Dj Tiesto","Pop","Concerts","Salt Lake City","2008-10-26T00:00:00.000Z",10,70,59466
+"Memphis - The Birth of Rock n Roll","Musicals","Shows","New York City","2008-09-03T00:00:00.000Z",9,70,67888
+"Woyzeck","Plays","Shows","New York City","2008-08-20T00:00:00.000Z",8,70,51217
+"Godsmack","Pop","Concerts","Milwaukee","2008-09-15T00:00:00.000Z",9,70,50891
+"Ted Nugent","Pop","Concerts","Cincinnati","2008-04-16T00:00:00.000Z",4,70,77054
+"Macbeth","Plays","Shows","New York City","2008-05-18T00:00:00.000Z",5,70,45918
+"Lyle Lovett","Pop","Concerts","Frisco","2008-05-18T00:00:00.000Z",5,70,50024
+"Govt Mule","Pop","Concerts","Indianapolis","2008-10-04T00:00:00.000Z",10,70,55899
+"Foghat","Pop","Concerts","Ottawa","2008-09-28T00:00:00.000Z",9,70,47431
+"Mamma Mia!","Musicals","Shows","New York City","2008-03-29T00:00:00.000Z",3,70,83994
+"Coldplay","Pop","Concerts","East Rutherford","2008-09-03T00:00:00.000Z",9,70,38942
+"Our Town","Plays","Shows","New York City","2008-12-07T00:00:00.000Z",12,70,39498
+"Dropkick Murphys","Pop","Concerts","Irving","2008-10-27T00:00:00.000Z",10,70,77556
+"Jesse Lacey","Pop","Concerts","Glendale","2008-09-28T00:00:00.000Z",9,70,78788
+"Celine Dion","Pop","Concerts","East Rutherford","2008-10-17T00:00:00.000Z",10,70,63274
+"Soulfest","Pop","Concerts","Milwaukee","2008-07-07T00:00:00.000Z",7,70,31937
+"Eagles","Pop","Concerts","Los Angeles","2008-03-24T00:00:00.000Z",3,70,50434
+"Backstreet Boys","Pop","Concerts","Milwaukee","2008-10-29T00:00:00.000Z",10,70,52660
+"Ray Lamontagne","Pop","Concerts","Detroit","2008-06-25T00:00:00.000Z",6,70,70280
+"Sevendust","Pop","Concerts","San Diego","2008-03-30T00:00:00.000Z",3,70,45816
+"Kanye West","Pop","Concerts","Los Angeles","2008-07-14T00:00:00.000Z",7,70,56409
+"Gretchen Wilson","Pop","Concerts","Green Bay","2008-06-27T00:00:00.000Z",6,69,96015
+"Kiss Me Kate","Musicals","Shows","New York City","2008-12-17T00:00:00.000Z",12,69,91421
+"For Colored Girls Who Have Considered Suicide When the Rainbow is Enuf","Plays","Shows","New York City","2008-11-20T00:00:00.000Z",11,69,35480
+"Crosby Stills Nash","Pop","Concerts","Chicago","2008-11-02T00:00:00.000Z",11,69,43489
+"Herbie Hancock","Pop","Concerts","Cincinnati","2008-04-24T00:00:00.000Z",4,69,98063
+"Ani DiFranco","Pop","Concerts","Santa Clara","2008-05-21T00:00:00.000Z",5,69,92979
+"Ani DiFranco","Pop","Concerts","Anaheim","2008-08-03T00:00:00.000Z",8,69,43704
+"Rhinoceros","Plays","Shows","New York City","2008-08-24T00:00:00.000Z",8,69,47273
+"Erykah Badu","Pop","Concerts","Washington","2008-10-27T00:00:00.000Z",10,69,53762
+"The Seagull","Plays","Shows","New York City","2008-10-16T00:00:00.000Z",10,69,69254
+"Ryan Adams","Pop","Concerts","New York City","2008-08-12T00:00:00.000Z",8,69,45196
+"Green Day","Pop","Concerts","Ottawa","2008-12-25T00:00:00.000Z",12,69,79389
+"Duran Duran","Pop","Concerts","Carson","2008-05-27T00:00:00.000Z",5,69,46049
+"Eagles","Pop","Concerts","New York City","2008-06-01T00:00:00.000Z",6,69,41651
+"Sarah Brightman","Pop","Concerts","Houston","2008-04-11T00:00:00.000Z",4,69,45804
+"Cake","Pop","Concerts","Portland","2008-03-10T00:00:00.000Z",3,69,49335
+"Toadies","Pop","Concerts","Philadelphia","2008-12-10T00:00:00.000Z",12,69,66258
+"Huey Lewis and the News","Pop","Concerts","Washington","2008-03-19T00:00:00.000Z",3,69,137248
+"Chicago","Musicals","Shows","New York City","2008-11-02T00:00:00.000Z",11,69,30990
+"Burt Bacharach","Pop","Concerts","Buffalo","2008-10-13T00:00:00.000Z",10,69,83929
+"Rod Stewart","Pop","Concerts","Landover","2008-10-06T00:00:00.000Z",10,69,56969
+"Jesse McCartney","Pop","Concerts","Sacramento","2008-12-22T00:00:00.000Z",12,69,39395
+"Maroon 5","Pop","Concerts","Ottawa","2008-07-21T00:00:00.000Z",7,69,49622
+".38 Special","Pop","Concerts","Seattle","2008-05-05T00:00:00.000Z",5,69,61331
+"Smash Mouth","Pop","Concerts","Calgary","2008-07-31T00:00:00.000Z",7,69,46130
+"Keb Mo","Pop","Concerts","San Diego","2008-06-12T00:00:00.000Z",6,69,54632
+"Spring Awakening","Plays","Shows","San Jose","2008-10-13T00:00:00.000Z",10,69,55284
+"Rhinoceros","Plays","Shows","New York City","2008-08-06T00:00:00.000Z",8,69,114039
+"Jimmy Buffett","Pop","Concerts","Ottawa","2008-07-05T00:00:00.000Z",7,69,49836
+"Beatles LOVE","Musicals","Shows","Las Vegas","2008-10-24T00:00:00.000Z",10,69,64372
+"The Jesus and Mary Chain","Pop","Concerts","Cleveland","2008-07-04T00:00:00.000Z",7,69,28269
+"Wynonna","Pop","Concerts","Irving","2008-07-15T00:00:00.000Z",7,69,53961
+"Chicago","Musicals","Shows","New York City","2008-11-22T00:00:00.000Z",11,69,42574
+"Allman Brothers Band","Pop","Concerts","Charleston","2008-12-04T00:00:00.000Z",12,69,46444
+"Legally Blonde","Musicals","Shows","Las Vegas","2008-07-29T00:00:00.000Z",7,69,28282
+"Passing Strange","Plays","Shows","New York City","2008-10-22T00:00:00.000Z",10,69,87222
+"America","Pop","Concerts","Chicago","2008-11-01T00:00:00.000Z",11,69,48785
+"Oliver Dragojevic","Pop","Concerts","Santa Clara","2008-09-07T00:00:00.000Z",9,69,41106
+"A Bronx Tale","Plays","Shows","Pasadena","2008-03-20T00:00:00.000Z",3,69,34983
+"Tokyo Police Club","Pop","Concerts","Dallas","2008-11-22T00:00:00.000Z",11,69,50660
+"Ben Harper","Pop","Concerts","Nashville","2008-10-19T00:00:00.000Z",10,69,75741
+"Country Thunder USA","Pop","Concerts","Atlanta","2008-03-13T00:00:00.000Z",3,68,48626
+"Bloc Party","Pop","Concerts","Hershey","2008-08-03T00:00:00.000Z",8,68,37547
+"The Glass Menagerie","Plays","Shows","New York City","2008-12-27T00:00:00.000Z",12,68,47806
+"Sweet Honey in the Rock","Pop","Concerts","Chicago","2008-10-26T00:00:00.000Z",10,68,60784
+"State Fair","Musicals","Shows","New York City","2008-11-20T00:00:00.000Z",11,68,54623
+"Good Charlotte","Pop","Concerts","Cleveland","2008-06-03T00:00:00.000Z",6,68,65515
+"Ben Folds","Pop","Concerts","Green Bay","2008-11-03T00:00:00.000Z",11,68,41709
+"Wicked","Plays","Shows","Seattle","2008-12-15T00:00:00.000Z",12,68,42142
+"Joanna Newsom","Pop","Concerts","Minneapolis","2008-02-21T00:00:00.000Z",2,68,50099
+"Iphigenia","Plays","Shows","New York City","2008-07-08T00:00:00.000Z",7,68,110749
+"As You Like It","Plays","Shows","New York City","2008-07-23T00:00:00.000Z",7,68,29306
+"Insane Clown Posse","Pop","Concerts","Cincinnati","2008-11-29T00:00:00.000Z",11,68,30416
+"To Be or Not To Be","Plays","Shows","New York City","2008-03-29T00:00:00.000Z",3,68,30391
+"Seven Brides for Seven Brothers","Musicals","Shows","New York City","2008-04-07T00:00:00.000Z",4,68,63926
+"The Bacchae","Plays","Shows","Boston","2008-05-08T00:00:00.000Z",5,68,103249
+"Spamalot","Musicals","Shows","Las Vegas","2008-11-26T00:00:00.000Z",11,68,52801
+"Soulfest","Pop","Concerts","Detroit","2008-05-21T00:00:00.000Z",5,68,71839
+"Gipsy Kings","Pop","Concerts","Kansas City","2008-12-13T00:00:00.000Z",12,68,43011
+"Passing Strange","Plays","Shows","New York City","2008-11-14T00:00:00.000Z",11,68,41882
+"War","Pop","Concerts","Arlington","2008-03-11T00:00:00.000Z",3,68,45625
+"Wisin y Yandel","Pop","Concerts","Carson","2008-06-28T00:00:00.000Z",6,68,48066
+"The Caretaker","Plays","Shows","New York City","2008-03-11T00:00:00.000Z",3,68,53949
+"Hairspray","Musicals","Shows","New York City","2008-04-17T00:00:00.000Z",4,68,36856
+"The Police","Pop","Concerts","Anaheim","2008-12-28T00:00:00.000Z",12,68,59516
+"John Mellencamp","Pop","Concerts","Buffalo","2008-05-25T00:00:00.000Z",5,68,28619
+"Mary Poppins","Musicals","Shows","New York City","2008-09-28T00:00:00.000Z",9,68,84384
+"Loretta Lynn","Pop","Concerts","Saratoga","2008-04-25T00:00:00.000Z",4,68,46464
+"The Country Girl","Plays","Shows","New York City","2008-11-04T00:00:00.000Z",11,68,69989
+"Hall and Oates","Pop","Concerts","Salt Lake City","2008-12-17T00:00:00.000Z",12,68,59598
+"The 39 Steps","Plays","Shows","New York City","2008-12-04T00:00:00.000Z",12,68,42314
+"Celtic Thunder","Pop","Concerts","Saratoga","2008-04-15T00:00:00.000Z",4,68,42547
+"Thurgood","Plays","Shows","New York City","2008-09-26T00:00:00.000Z",9,68,57945
+"Duffy","Pop","Concerts","Salt Lake City","2008-07-23T00:00:00.000Z",7,68,52051
+"Macbeth","Plays","Shows","New York City","2008-06-02T00:00:00.000Z",6,68,53304
+"A Catered Affair","Musicals","Shows","Pasadena","2008-03-04T00:00:00.000Z",3,68,58996
+"Joe Cocker","Pop","Concerts","Philadelphia","2008-05-27T00:00:00.000Z",5,68,29367
+"Reba McEntire","Pop","Concerts","Portland","2008-12-16T00:00:00.000Z",12,68,37765
+"REO Speedwagon","Pop","Concerts","Oakland","2008-06-26T00:00:00.000Z",6,68,108562
+"Glengarry Glen Ross","Plays","Shows","New York City","2008-04-10T00:00:00.000Z",4,68,35275
+"Jimmy Buffett","Pop","Concerts","Glendale","2008-04-10T00:00:00.000Z",4,68,49339
+"The National","Pop","Concerts","Commerce City","2008-09-02T00:00:00.000Z",9,68,38440
+"Tom Petty and the Heartbreakers","Pop","Concerts","Indianapolis","2008-04-16T00:00:00.000Z",4,68,44048
+"Killing Joke","Pop","Concerts","Minneapolis","2008-09-19T00:00:00.000Z",9,68,52431
+"Gipsy Kings","Pop","Concerts","Denver","2008-08-19T00:00:00.000Z",8,68,37818
+"Michael McDonald","Pop","Concerts","Auburn Hills","2008-11-11T00:00:00.000Z",11,68,47727
+"Macbeth","Plays","Shows","New York City","2008-07-16T00:00:00.000Z",7,68,65256
+"Little Big Town","Pop","Concerts","Cincinnati","2008-11-07T00:00:00.000Z",11,68,60612
+"Thais","Opera","Shows","Los Angeles","2008-09-20T00:00:00.000Z",9,68,55402
+"Endgame","Plays","Shows","New York City","2008-11-10T00:00:00.000Z",11,68,82621
+"Crue Fest","Pop","Concerts","Mountain View","2008-12-20T00:00:00.000Z",12,68,47471
+"Woyzeck","Plays","Shows","New York City","2008-03-28T00:00:00.000Z",3,68,61412
+"Cafe Tacuba","Pop","Concerts","Indianapolis","2008-10-22T00:00:00.000Z",10,68,55507
+"Rock 'n' Roll","Plays","Shows","New York City","2008-11-30T00:00:00.000Z",11,68,50116
+"A Catered Affair","Musicals","Shows","Los Angeles","2008-09-17T00:00:00.000Z",9,68,40647
+"Marco Antonio Solis","Pop","Concerts","Cleveland","2008-07-03T00:00:00.000Z",7,68,37217
+"Hamlet","Plays","Shows","New York City","2008-12-07T00:00:00.000Z",12,68,56355
+"Dave Stewart","Pop","Concerts","Cleveland","2008-04-13T00:00:00.000Z",4,68,75234
+"Bryan Adams","Pop","Concerts","Pittsburgh","2008-11-05T00:00:00.000Z",11,68,55596
+"O.A.R.","Pop","Concerts","Houston","2008-02-23T00:00:00.000Z",2,68,56651
+"Joan Baez","Pop","Concerts","Salt Lake City","2008-06-07T00:00:00.000Z",6,68,61190
+"Curtains","Musicals","Shows","New York City","2008-06-17T00:00:00.000Z",6,68,37021
+"Lucia di Lammermoor","Opera","Shows","Chicago","2008-07-22T00:00:00.000Z",7,67,45972
+"Third Day","Pop","Concerts","Toronto","2008-05-11T00:00:00.000Z",5,67,72246
+"Barenaked Ladies","Pop","Concerts","Boston","2008-05-03T00:00:00.000Z",5,67,77237
+"Rancid","Pop","Concerts","Nashville","2008-05-15T00:00:00.000Z",5,67,47273
+"Bon Jovi","Pop","Concerts","Nashville","2008-09-09T00:00:00.000Z",9,67,73761
+"Oliver!","Musicals","Shows","New York City","2008-05-04T00:00:00.000Z",5,67,74440
+"George Thorogood and the Destroyers","Pop","Concerts","Milwaukee","2008-04-08T00:00:00.000Z",4,67,42899
+"High Society","Musicals","Shows","New York City","2008-04-26T00:00:00.000Z",4,67,51720
+"Celtic Thunder","Pop","Concerts","Boston","2008-03-14T00:00:00.000Z",3,67,44548
+"The Swell Season","Pop","Concerts","Anaheim","2008-07-16T00:00:00.000Z",7,67,39726
+"The Whigs","Pop","Concerts","Oakland","2008-05-20T00:00:00.000Z",5,67,36498
+"Echo & the Bunnymen","Pop","Concerts","Glendale","2008-04-12T00:00:00.000Z",4,67,44892
+"Hamlet","Plays","Shows","New York City","2008-07-07T00:00:00.000Z",7,67,56790
+"King Lear","Plays","Shows","New York City","2008-06-24T00:00:00.000Z",6,67,50030
+"The Whigs","Pop","Concerts","Miami Gardens","2008-08-09T00:00:00.000Z",8,67,39699
+"Journey","Pop","Concerts","San Antonio","2008-11-15T00:00:00.000Z",11,67,32552
+"La Boheme","Opera","Shows","Detroit","2008-12-31T00:00:00.000Z",12,67,49081
+"Live","Pop","Concerts","Philadelphia","2008-04-01T00:00:00.000Z",4,67,37473
+"Miss Julie","Plays","Shows","Pasadena","2008-12-24T00:00:00.000Z",12,67,54893
+"ZZ Top","Pop","Concerts","Frisco","2008-04-25T00:00:00.000Z",4,67,82772
+"Joan Baez","Pop","Concerts","Cleveland","2008-07-02T00:00:00.000Z",7,67,55078
+"Mystere Cirque du Soleil","Musicals","Shows","Las Vegas","2008-11-17T00:00:00.000Z",11,67,66862
+"Queensryche","Pop","Concerts","Baltimore","2008-12-07T00:00:00.000Z",12,67,43761
+"August: Osage County","Plays","Shows","New York City","2008-08-02T00:00:00.000Z",8,67,64903
+"The Frogs","Plays","Shows","Los Angeles","2008-06-11T00:00:00.000Z",6,67,55889
+"Oliver Dragojevic","Pop","Concerts","Anaheim","2008-06-02T00:00:00.000Z",6,67,28101
+"Bamboozle Left","Pop","Concerts","Chicago","2008-10-17T00:00:00.000Z",10,67,45533
+"Blind Melon","Pop","Concerts","New Orleans","2008-04-07T00:00:00.000Z",4,67,60780
+"Taylor Swift","Pop","Concerts","Charleston","2008-05-28T00:00:00.000Z",5,67,49248
+"Oedipus the King","Plays","Shows","New York City","2008-09-09T00:00:00.000Z",9,67,76599
+"A Man For All Seasons","Plays","Shows","New York City","2008-11-24T00:00:00.000Z",11,67,56251
+"Dave Koz","Pop","Concerts","Dallas","2008-05-29T00:00:00.000Z",5,67,51883
+"Spring Awakening","Plays","Shows","New York City","2008-04-04T00:00:00.000Z",4,67,37605
+"The Little Mermaid","Musicals","Shows","Los Angeles","2008-10-08T00:00:00.000Z",10,67,81966
+"Santana","Pop","Concerts","St. Louis","2008-08-14T00:00:00.000Z",8,67,34963
+"Spring Awakening","Plays","Shows","New York City","2008-03-02T00:00:00.000Z",3,67,57349
+"Pat Benatar","Pop","Concerts","St. Petersburg","2008-03-29T00:00:00.000Z",3,67,47188
+"Flogging Molly","Pop","Concerts","Jacksonville","2008-06-18T00:00:00.000Z",6,67,98957
+"Mary Poppins","Musicals","Shows","New York City","2008-05-11T00:00:00.000Z",5,67,136390
+"Little River Band","Pop","Concerts","Miami Gardens","2008-07-21T00:00:00.000Z",7,67,42299
+"Children of Bodom","Pop","Concerts","Calgary","2008-08-22T00:00:00.000Z",8,67,42684
+"Bad Company","Pop","Concerts","Frisco","2008-09-28T00:00:00.000Z",9,67,31190
+"Waiting for Godot","Plays","Shows","New York City","2008-06-15T00:00:00.000Z",6,67,51291
+"Passing Strange","Plays","Shows","New York City","2008-03-12T00:00:00.000Z",3,67,84429
+"Jersey Boys","Musicals","Shows","New York City","2008-09-04T00:00:00.000Z",9,67,41683
+"Miss Julie","Plays","Shows","New York City","2008-04-24T00:00:00.000Z",4,67,81126
+"The Country Girl","Plays","Shows","New York City","2008-03-20T00:00:00.000Z",3,67,53488
+"David Sanborn","Pop","Concerts","Kansas City","2008-11-03T00:00:00.000Z",11,67,39621
+"Gypsy","Musicals","Shows","New York City","2008-04-25T00:00:00.000Z",4,67,28225
+"Jill Scott","Pop","Concerts","Washington","2008-08-09T00:00:00.000Z",8,67,43843
+"America","Pop","Concerts","Houston","2008-03-01T00:00:00.000Z",3,67,75635
+"Steve Miller Band","Pop","Concerts","East Rutherford","2008-07-01T00:00:00.000Z",7,67,98786
+"Keith Urban","Pop","Concerts","Detroit","2008-08-02T00:00:00.000Z",8,67,33238
+"DJ Shadow and Cut Chemist","Pop","Concerts","Saratoga","2008-09-01T00:00:00.000Z",9,67,87890
+"Blue Man Group","Musicals","Shows","Las Vegas","2008-07-01T00:00:00.000Z",7,67,87022
+"The Caretaker","Plays","Shows","New York City","2008-03-16T00:00:00.000Z",3,67,59797
+"Mamma Mia!","Musicals","Shows","New York City","2008-03-05T00:00:00.000Z",3,67,28798
+"Peter Frampton","Pop","Concerts","Miami Gardens","2008-04-23T00:00:00.000Z",4,67,34223
+"Blues Brothers","Pop","Concerts","Baltimore","2008-09-19T00:00:00.000Z",9,67,52581
+"August: Osage County","Plays","Shows","New York City","2008-10-12T00:00:00.000Z",10,67,45226
+"Boston","Pop","Concerts","Washington","2008-06-25T00:00:00.000Z",6,67,37625
+"John Fogerty","Pop","Concerts","Minneapolis","2008-12-29T00:00:00.000Z",12,66,55037
+"3 Doors Down","Pop","Concerts","Jacksonville","2008-05-11T00:00:00.000Z",5,66,66897
+"Anita Baker","Pop","Concerts","Miami","2008-12-31T00:00:00.000Z",12,66,31163
+"Extreme","Pop","Concerts","Cleveland","2008-04-04T00:00:00.000Z",4,66,77176
+"Stone Temple Pilots","Pop","Concerts","Chicago","2008-02-24T00:00:00.000Z",2,66,48906
+"La Gioconda","Opera","Shows","Galveston","2008-07-16T00:00:00.000Z",7,66,33702
+"Counting Crows and Maroon 5","Pop","Concerts","Tampa","2008-12-19T00:00:00.000Z",12,66,68336
+"Insane Clown Posse","Pop","Concerts","Montreal","2008-07-05T00:00:00.000Z",7,66,67002
+"Black Kids","Pop","Concerts","Glendale","2008-09-29T00:00:00.000Z",9,66,39889
+"Hot Chip","Pop","Concerts","Sacramento","2008-11-03T00:00:00.000Z",11,66,38148
+"Enrique Iglesias","Pop","Concerts","Cincinnati","2008-09-19T00:00:00.000Z",9,66,39884
+"Blue Man Group","Musicals","Shows","Las Vegas","2008-05-31T00:00:00.000Z",5,66,41610
+"Pal Joey","Musicals","Shows","New York City","2008-06-12T00:00:00.000Z",6,66,41682
+"O - Cirque du Soleil","Musicals","Shows","Las Vegas","2008-04-15T00:00:00.000Z",4,66,66746
+"Legally Blonde","Musicals","Shows","Las Vegas","2008-08-11T00:00:00.000Z",8,66,45537
+"Dave Koz","Pop","Concerts","San Diego","2008-03-18T00:00:00.000Z",3,66,45018
+"Jesse McCartney","Pop","Concerts","Saratoga Springs","2008-09-11T00:00:00.000Z",9,66,41833
+"Iggy and the Stooges","Pop","Concerts","Cincinnati","2008-04-24T00:00:00.000Z",4,66,73527
+"The Frogs","Plays","Shows","New York City","2008-09-19T00:00:00.000Z",9,66,50395
+"The Country Girl","Plays","Shows","New York City","2008-12-13T00:00:00.000Z",12,66,21358
+"Black Crowes","Pop","Concerts","San Antonio","2008-04-13T00:00:00.000Z",4,66,55253
+"Colbie Caillat","Pop","Concerts","Salt Lake City","2008-11-25T00:00:00.000Z",11,66,33042
+"Bonnie Raitt","Pop","Concerts","St. Louis","2008-10-21T00:00:00.000Z",10,66,34367
+"Arlo Guthrie","Pop","Concerts","Chicago","2008-11-08T00:00:00.000Z",11,66,95051
+"Electra","Plays","Shows","Boston","2008-04-23T00:00:00.000Z",4,66,134581
+"The Bacchae","Plays","Shows","New York City","2008-03-02T00:00:00.000Z",3,66,45994
+"Bobby Brown","Pop","Concerts","Columbus","2008-09-13T00:00:00.000Z",9,66,42358
+"The Glass Menagerie","Plays","Shows","New York City","2008-05-26T00:00:00.000Z",5,66,46213
+"Sound Tribe Sector 9","Pop","Concerts","Portland","2008-03-02T00:00:00.000Z",3,66,23268
+"Sugarland","Pop","Concerts","Detroit","2008-12-26T00:00:00.000Z",12,66,51494
+"The King and I","Musicals","Shows","New York City","2008-12-14T00:00:00.000Z",12,66,40613
+"A Bronx Tale","Plays","Shows","New York City","2008-03-14T00:00:00.000Z",3,66,57162
+"Sara Evans","Pop","Concerts","Saratoga Springs","2008-09-24T00:00:00.000Z",9,66,68915
+"La Rondine","Opera","Shows","Baltimore","2008-05-30T00:00:00.000Z",5,66,37064
+"Earth Wind and Fire","Pop","Concerts","Indianapolis","2008-09-03T00:00:00.000Z",9,66,69664
+"Boston","Pop","Concerts","Saratoga Springs","2008-11-16T00:00:00.000Z",11,66,61554
+"All My Sons","Plays","Shows","New York City","2008-12-08T00:00:00.000Z",12,66,59530
+"August: Osage County","Plays","Shows","San Francisco","2008-09-05T00:00:00.000Z",9,66,60506
+"Sheryl Crow","Pop","Concerts","Landover","2008-06-10T00:00:00.000Z",6,66,70023
+"Fiction Plane","Pop","Concerts","Denver","2008-08-31T00:00:00.000Z",8,66,45834
+"Erykah Badu","Pop","Concerts","Salt Lake City","2008-04-20T00:00:00.000Z",4,66,47676
+"Jethro Tull","Pop","Concerts","Raleigh","2008-09-18T00:00:00.000Z",9,66,48806
+"Cute Is What We Aim For","Pop","Concerts","Oakland","2008-07-10T00:00:00.000Z",7,66,44435
+"Phantom of the Opera","Musicals","Shows","Las Vegas","2008-11-12T00:00:00.000Z",11,66,88094
+"Cafe Tacuba","Pop","Concerts","Newark","2008-10-05T00:00:00.000Z",10,66,69352
+"Greg Kihn Band","Pop","Concerts","New Orleans","2008-05-09T00:00:00.000Z",5,66,43572
+"U2","Pop","Concerts","Auburn Hills","2008-12-30T00:00:00.000Z",12,66,64395
+"Tristan und Isolde","Opera","Shows","Chicago","2008-08-07T00:00:00.000Z",8,66,61217
+"Green Day","Pop","Concerts","Boston","2008-09-23T00:00:00.000Z",9,66,40811
+"La Damnation de Faust","Opera","Shows","San Francisco","2008-11-05T00:00:00.000Z",11,66,72946
+"Styx","Pop","Concerts","Charleston","2008-08-06T00:00:00.000Z",8,66,50652
+"Chicago","Musicals","Shows","New York City","2008-03-05T00:00:00.000Z",3,66,39974
+"To Be or Not To Be","Plays","Shows","New York City","2008-02-22T00:00:00.000Z",2,66,75611
+"Shrek the Musical","Musicals","Shows","New York City","2008-07-16T00:00:00.000Z",7,66,37619
+"The Raconteurs","Pop","Concerts","Indianapolis","2008-08-14T00:00:00.000Z",8,65,42828
+"Tower of Power","Pop","Concerts","Houston","2008-04-26T00:00:00.000Z",4,65,42981
+"The Country Girl","Plays","Shows","New York City","2008-08-11T00:00:00.000Z",8,65,69323
+"Tom Jones","Pop","Concerts","Boston","2008-08-03T00:00:00.000Z",8,65,30959
+"Michael Buble","Pop","Concerts","Houston","2008-11-02T00:00:00.000Z",11,65,49659
+"Hedda Gabler","Plays","Shows","New York City","2008-11-11T00:00:00.000Z",11,65,61628
+"Chicago","Pop","Concerts","Phoenix","2008-08-01T00:00:00.000Z",8,65,46572
+"Jim Brickman","Pop","Concerts","Orlando","2008-04-27T00:00:00.000Z",4,65,47852
+"South Pacific","Musicals","Shows","New York City","2008-07-30T00:00:00.000Z",7,65,47262
+"The Homecoming","Plays","Shows","New York City","2008-08-03T00:00:00.000Z",8,65,43775
+"Counting Crows","Pop","Concerts","Columbus","2008-11-13T00:00:00.000Z",11,65,30675
+"Neil Diamond","Pop","Concerts","Ottawa","2008-09-11T00:00:00.000Z",9,65,30832
+"Commodores","Pop","Concerts","Houston","2008-06-14T00:00:00.000Z",6,65,58649
+"Poison","Pop","Concerts","East Rutherford","2008-05-21T00:00:00.000Z",5,65,56953
+"Bad Company","Pop","Concerts","Oklahoma City","2008-08-23T00:00:00.000Z",8,65,42821
+"November","Plays","Shows","New York City","2008-06-30T00:00:00.000Z",6,65,58693
+"Alkaline Trio","Pop","Concerts","Memphis","2008-05-09T00:00:00.000Z",5,65,36694
+"Neville Brothers","Pop","Concerts","Houston","2008-07-14T00:00:00.000Z",7,65,105318
+"Travis Tritt","Pop","Concerts","Ottawa","2008-04-17T00:00:00.000Z",4,65,52995
+"For Colored Girls Who Have Considered Suicide When the Rainbow is Enuf","Plays","Shows","New York City","2008-06-12T00:00:00.000Z",6,65,84071
+"K.D. Lang","Pop","Concerts","Portland","2008-07-22T00:00:00.000Z",7,65,78930
+"Julius Caesar","Plays","Shows","Los Angeles","2008-10-26T00:00:00.000Z",10,65,32520
+"The Queen of Spades","Opera","Shows","Galveston","2008-09-11T00:00:00.000Z",9,65,51150
+"Spring Awakening","Plays","Shows","New York City","2008-11-01T00:00:00.000Z",11,65,41862
+"Spamalot","Musicals","Shows","New York City","2008-12-04T00:00:00.000Z",12,65,84583
+"Maze","Pop","Concerts","San Diego","2008-11-14T00:00:00.000Z",11,65,55493
+"Oedipus the King","Plays","Shows","Los Angeles","2008-03-18T00:00:00.000Z",3,65,80290
+"Kenny Loggins","Pop","Concerts","New York City","2008-11-06T00:00:00.000Z",11,65,50247
+"Fiction Plane","Pop","Concerts","Seattle","2008-10-17T00:00:00.000Z",10,65,29717
+"King Crimson","Pop","Concerts","Portland","2008-09-27T00:00:00.000Z",9,65,52497
+"Garth Brooks","Pop","Concerts","Philadelphia","2008-04-03T00:00:00.000Z",4,65,39118
+"The Little Mermaid","Musicals","Shows","Pasadena","2008-06-29T00:00:00.000Z",6,65,54306
+"High Society","Musicals","Shows","New York City","2008-06-24T00:00:00.000Z",6,65,61088
+"Seven Brides for Seven Brothers","Musicals","Shows","New York City","2008-06-26T00:00:00.000Z",6,65,40457
+"Creedence Clearwater Revisited","Pop","Concerts","Anaheim","2008-07-30T00:00:00.000Z",7,65,63473
+"Chicago","Musicals","Shows","New York City","2008-12-04T00:00:00.000Z",12,65,48345
+"Ringo Starr","Pop","Concerts","New York City","2008-05-03T00:00:00.000Z",5,65,80964
+"Dirty Dancing","Musicals","Shows","New York City","2008-07-31T00:00:00.000Z",7,65,35326
+"Kiss Me Kate","Musicals","Shows","Pasadena","2008-08-23T00:00:00.000Z",8,65,36723
+"Irish Tenors","Pop","Concerts","Chicago","2008-10-06T00:00:00.000Z",10,65,49678
+".38 Special","Pop","Concerts","Cleveland","2008-05-30T00:00:00.000Z",5,65,58073
+"A Streetcar Named Desire","Plays","Shows","New York City","2008-08-02T00:00:00.000Z",8,65,39561
+"Peter Frampton","Pop","Concerts","Philadelphia","2008-07-28T00:00:00.000Z",7,65,76531
+"Rhinoceros","Plays","Shows","New York City","2008-05-04T00:00:00.000Z",5,65,92385
+"Kiss","Pop","Concerts","San Francisco","2008-12-01T00:00:00.000Z",12,65,45630
+"Hedda Gabler","Plays","Shows","New York City","2008-03-20T00:00:00.000Z",3,65,52509
+"The Lion King","Musicals","Shows","New York City","2008-10-30T00:00:00.000Z",10,65,67261
+"Neil Diamond","Pop","Concerts","Cleveland","2008-05-19T00:00:00.000Z",5,65,59569
+"Brian McKnight","Pop","Concerts","Detroit","2008-07-30T00:00:00.000Z",7,65,34307
+"Aretha Franklin","Pop","Concerts","Columbus","2008-10-24T00:00:00.000Z",10,65,39234
+"Kenny Rogers","Pop","Concerts","New Orleans","2008-10-03T00:00:00.000Z",10,65,69882
+"Sound Tribe Sector 9","Pop","Concerts","Philadelphia","2008-09-09T00:00:00.000Z",9,65,58364
+"Rosencrantz and Guildenstern Are Dead","Plays","Shows","New York City","2008-03-09T00:00:00.000Z",3,65,38486
+"Joanna Newsom","Pop","Concerts","East Rutherford","2008-08-19T00:00:00.000Z",8,65,16588
+"LeAnn Rimes","Pop","Concerts","Cincinnati","2008-04-19T00:00:00.000Z",4,65,25157
+"Avenue Q","Plays","Shows","Seattle","2008-09-10T00:00:00.000Z",9,65,67166
+"The Bacchae","Plays","Shows","New York City","2008-09-15T00:00:00.000Z",9,65,54832
+"La Traviata","Opera","Shows","Chicago","2008-10-27T00:00:00.000Z",10,65,101413
+"Spoon","Pop","Concerts","Washington","2008-12-24T00:00:00.000Z",12,65,35352
+"Duffy","Pop","Concerts","East Rutherford","2008-06-18T00:00:00.000Z",6,65,61859
+"Nas","Pop","Concerts","Commerce City","2008-05-20T00:00:00.000Z",5,65,38360
+"As You Like It","Plays","Shows","Boston","2008-09-01T00:00:00.000Z",9,65,55778
+"War","Pop","Concerts","Phoenix","2008-11-15T00:00:00.000Z",11,65,42317
+"Irish Tenors","Pop","Concerts","Los Angeles","2008-07-03T00:00:00.000Z",7,65,49623
+"Les Miserables","Musicals","Shows","New York City","2008-09-07T00:00:00.000Z",9,65,37617
+"Kid Rock","Pop","Concerts","Santa Clara","2008-08-26T00:00:00.000Z",8,65,54169
+"La Boheme","Opera","Shows","Los Angeles","2008-05-20T00:00:00.000Z",5,65,87126
+"Duffy","Pop","Concerts","Toronto","2008-05-06T00:00:00.000Z",5,65,78653
+"Spamalot","Musicals","Shows","Los Angeles","2008-07-22T00:00:00.000Z",7,65,58176
+"Othello","Plays","Shows","New York City","2008-10-25T00:00:00.000Z",10,65,67618
+"Ice Cube","Pop","Concerts","Orchard Park","2008-11-05T00:00:00.000Z",11,65,35626
+"Macbeth","Plays","Shows","New York City","2008-11-15T00:00:00.000Z",11,65,25335
+"State Fair","Musicals","Shows","New York City","2008-05-19T00:00:00.000Z",5,65,53121
+"Merle Haggard","Pop","Concerts","Pittsburgh","2008-04-20T00:00:00.000Z",4,65,52065
+"A Man For All Seasons","Plays","Shows","New York City","2008-08-11T00:00:00.000Z",8,64,38812
+"Donny Osmond","Pop","Concerts","Toronto","2008-06-04T00:00:00.000Z",6,64,88279
+"The Queen of Spades","Opera","Shows","Detroit","2008-06-17T00:00:00.000Z",6,64,59249
+"John Mayer","Pop","Concerts","Hershey","2008-05-19T00:00:00.000Z",5,64,44654
+"Boston","Pop","Concerts","San Francisco","2008-06-01T00:00:00.000Z",6,64,30222
+"Gypsy","Musicals","Shows","New York City","2008-07-18T00:00:00.000Z",7,64,55757
+"La Boheme","Opera","Shows","Baltimore","2008-11-07T00:00:00.000Z",11,64,75416
+"A Streetcar Named Desire","Plays","Shows","New York City","2008-02-24T00:00:00.000Z",2,64,49447
+"Tina Turner","Pop","Concerts","Auburn Hills","2008-05-23T00:00:00.000Z",5,64,37660
+"Young Frankenstein","Plays","Shows","New York City","2008-03-02T00:00:00.000Z",3,64,58417
+"Jessica Simpson","Pop","Concerts","San Diego","2008-11-22T00:00:00.000Z",11,64,27772
+"Hot Chip","Pop","Concerts","San Diego","2008-08-02T00:00:00.000Z",8,64,52096
+"Montgomery Gentry","Pop","Concerts","Detroit","2008-03-10T00:00:00.000Z",3,64,62364
+"Buckcherry","Pop","Concerts","Philadelphia","2008-03-26T00:00:00.000Z",3,64,48299
+"Jersey Boys","Musicals","Shows","New York City","2008-10-21T00:00:00.000Z",10,64,38611
+"La Rondine","Opera","Shows","New York City","2008-04-19T00:00:00.000Z",4,64,27706
+"Jersey Boys","Musicals","Shows","New York City","2008-11-19T00:00:00.000Z",11,64,40974
+"Ted Nugent","Pop","Concerts","Saratoga","2008-03-06T00:00:00.000Z",3,64,38463
+"The Glass Menagerie","Plays","Shows","New York City","2008-04-14T00:00:00.000Z",4,64,47441
+"The Magic Flute","Opera","Shows","San Francisco","2008-05-28T00:00:00.000Z",5,64,49084
+"Dropkick Murphys","Pop","Concerts","Glendale","2008-11-26T00:00:00.000Z",11,64,45091
+"Brand New","Pop","Concerts","Saratoga","2008-12-01T00:00:00.000Z",12,64,28322
+"Jersey Boys","Musicals","Shows","New York City","2008-10-14T00:00:00.000Z",10,64,31896
+"The Bacchae","Plays","Shows","Los Angeles","2008-10-22T00:00:00.000Z",10,64,38838
+"Steve Miller Band","Pop","Concerts","New Orleans","2008-03-23T00:00:00.000Z",3,64,98627
+"Lenny Kravitz","Pop","Concerts","Miami Gardens","2008-08-19T00:00:00.000Z",8,64,39387
+"Michael McDonald","Pop","Concerts","Foxborough","2008-10-18T00:00:00.000Z",10,64,48327
+"Citizen Cope","Pop","Concerts","Toronto","2008-11-04T00:00:00.000Z",11,64,49772
+"High School Musical","Musicals","Shows","New York City","2008-06-07T00:00:00.000Z",6,64,35953
+"Teddy Geiger","Pop","Concerts","New York City","2008-10-26T00:00:00.000Z",10,64,54311
+"Legally Blonde","Musicals","Shows","Las Vegas","2008-03-15T00:00:00.000Z",3,64,106321
+"My Bloody Valentine","Pop","Concerts","New Orleans","2008-04-25T00:00:00.000Z",4,64,51680
+"Spamalot","Musicals","Shows","Las Vegas","2008-07-13T00:00:00.000Z",7,64,48979
+"Mamma Mia!","Musicals","Shows","New York City","2008-07-06T00:00:00.000Z",7,64,68501
+"Doctor Atomic","Opera","Shows","Baltimore","2008-07-27T00:00:00.000Z",7,64,72014
+"Madonna","Pop","Concerts","San Diego","2008-12-17T00:00:00.000Z",12,64,107048
+"Dolly Parton","Pop","Concerts","Dallas","2008-03-08T00:00:00.000Z",3,64,49368
+"Maze","Pop","Concerts","Charlotte","2008-06-19T00:00:00.000Z",6,64,37302
+"Rigoletto","Opera","Shows","San Francisco","2008-08-09T00:00:00.000Z",8,64,34700
+"November","Plays","Shows","Pasadena","2008-09-17T00:00:00.000Z",9,64,36564
+"Hairspray","Musicals","Shows","New York City","2008-07-02T00:00:00.000Z",7,64,52079
+"John Mayer","Pop","Concerts","Columbus","2008-10-20T00:00:00.000Z",10,64,46723
+"O - Cirque du Soleil","Musicals","Shows","Las Vegas","2008-10-29T00:00:00.000Z",10,64,40905
+"Julius Caesar","Plays","Shows","New York City","2008-07-09T00:00:00.000Z",7,64,80382
+"As You Like It","Plays","Shows","New York City","2008-10-09T00:00:00.000Z",10,64,51737
+"Jersey Boys","Musicals","Shows","New York City","2008-03-23T00:00:00.000Z",3,64,56691
+"Loretta Lynn","Pop","Concerts","East Rutherford","2008-07-14T00:00:00.000Z",7,64,69954
+"Miss Julie","Plays","Shows","New York City","2008-03-28T00:00:00.000Z",3,64,34167
+"REO Speedwagon","Pop","Concerts","Charlotte","2008-09-11T00:00:00.000Z",9,64,44690
+"Monsters of Rock","Pop","Concerts","Oklahoma City","2008-06-28T00:00:00.000Z",6,64,54371
+"Snoop Dogg","Pop","Concerts","Seattle","2008-12-28T00:00:00.000Z",12,64,47262
+"Pepe Aguilar","Pop","Concerts","Milwaukee","2008-04-02T00:00:00.000Z",4,64,61182
+"Waiting for Godot","Plays","Shows","New York City","2008-05-16T00:00:00.000Z",5,64,39916
+"Coldplay","Pop","Concerts","Carson","2008-07-24T00:00:00.000Z",7,64,38826
+"A Chorus Line","Musicals","Shows","New York City","2008-10-01T00:00:00.000Z",10,64,51408
+"Miss Julie","Plays","Shows","Boston","2008-03-18T00:00:00.000Z",3,64,71519
+"The Homecoming","Plays","Shows","New York City","2008-06-17T00:00:00.000Z",6,64,56106
+"Hedda Gabler","Plays","Shows","New York City","2008-09-18T00:00:00.000Z",9,64,40395
+"All My Sons","Plays","Shows","New York City","2008-09-15T00:00:00.000Z",9,64,44469
+"Rhinoceros","Plays","Shows","New York City","2008-04-25T00:00:00.000Z",4,64,57236
+"Missy Higgins","Pop","Concerts","Philadelphia","2008-03-20T00:00:00.000Z",3,64,61406
+"Jerry Jeff Walker","Pop","Concerts","Toronto","2008-09-27T00:00:00.000Z",9,64,39592
+"The Caucasian Chalk Circle","Plays","Shows","New York City","2008-04-20T00:00:00.000Z",4,64,25616
+"Umphreys McGee","Pop","Concerts","Memphis","2008-06-13T00:00:00.000Z",6,64,42280
+"Steve Miller Band","Pop","Concerts","Houston","2008-08-11T00:00:00.000Z",8,64,49518
+"Flower Drum Song","Musicals","Shows","New York City","2008-12-03T00:00:00.000Z",12,64,60486
+"The Rowdy Frynds Tour","Pop","Concerts","Detroit","2008-10-01T00:00:00.000Z",10,64,57713
+"For Colored Girls Who Have Considered Suicide When the Rainbow is Enuf","Plays","Shows","New York City","2008-11-17T00:00:00.000Z",11,64,63449
+"Woyzeck","Plays","Shows","Los Angeles","2008-09-14T00:00:00.000Z",9,64,50713
+"Lenny Kravitz","Pop","Concerts","Saratoga","2008-06-23T00:00:00.000Z",6,64,39068
+"Juan Luis Guerra","Pop","Concerts","San Jose","2008-07-14T00:00:00.000Z",7,64,44408
+"Armando Manzanero","Pop","Concerts","San Antonio","2008-11-28T00:00:00.000Z",11,64,50243
+"Kansas","Pop","Concerts","Commerce City","2008-07-21T00:00:00.000Z",7,64,37432
+"Waiting for Godot","Plays","Shows","Seattle","2008-10-25T00:00:00.000Z",10,64,64917
+"Black Eyed Peas","Pop","Concerts","East Rutherford","2008-11-28T00:00:00.000Z",11,64,74303
+"Johnny Mathis","Pop","Concerts","Cleveland","2008-08-10T00:00:00.000Z",8,63,64646
+"Dandy Warhols","Pop","Concerts","Salt Lake City","2008-04-02T00:00:00.000Z",4,63,96550
+"Mamma Mia!","Musicals","Shows","Los Angeles","2008-08-30T00:00:00.000Z",8,63,57475
+"Gypsy","Musicals","Shows","New York City","2008-09-02T00:00:00.000Z",9,63,39654
+"Nick Cave","Pop","Concerts","St. Petersburg","2008-10-24T00:00:00.000Z",10,63,28827
+"Miss Julie","Plays","Shows","New York City","2008-06-03T00:00:00.000Z",6,63,28524
+"Robert Cray Band","Pop","Concerts","Landover","2008-09-17T00:00:00.000Z",9,63,55620
+"Great Big Sea","Pop","Concerts","San Antonio","2008-08-09T00:00:00.000Z",8,63,57564
+"Peter Frampton","Pop","Concerts","Portland","2008-07-30T00:00:00.000Z",7,63,29305
+"Zucchero","Pop","Concerts","Atlanta","2008-08-03T00:00:00.000Z",8,63,34440
+"Manhattan Transfer","Pop","Concerts","Detroit","2008-08-18T00:00:00.000Z",8,63,56657
+"Counting Crows","Pop","Concerts","Newark","2008-08-16T00:00:00.000Z",8,63,72054
+"Electra","Plays","Shows","Los Angeles","2008-09-11T00:00:00.000Z",9,63,97871
+"Avenue Q","Plays","Shows","New York City","2008-07-25T00:00:00.000Z",7,63,32958
+"Beatles LOVE","Musicals","Shows","Las Vegas","2008-02-23T00:00:00.000Z",2,63,37184
+"Rhinoceros","Plays","Shows","New York City","2008-05-01T00:00:00.000Z",5,63,92202
+"The Cherry Orchard","Plays","Shows","New York City","2008-03-17T00:00:00.000Z",3,63,41947
+"Dirty Dancing","Musicals","Shows","New York City","2008-03-30T00:00:00.000Z",3,63,43482
+"Chicago","Musicals","Shows","New York City","2008-08-04T00:00:00.000Z",8,63,37417
+"Nick Cave","Pop","Concerts","Sunrise","2008-10-19T00:00:00.000Z",10,63,55489
+"November","Plays","Shows","New York City","2008-08-23T00:00:00.000Z",8,63,44756
+"Nofx","Pop","Concerts","Auburn Hills","2008-08-19T00:00:00.000Z",8,63,27853
+"Killing Joke","Pop","Concerts","Detroit","2008-11-05T00:00:00.000Z",11,63,32686
+"Iphigenia","Plays","Shows","New York City","2008-03-23T00:00:00.000Z",3,63,70644
+"Carrie Underwood","Pop","Concerts","Green Bay","2008-10-11T00:00:00.000Z",10,63,47708
+"Dirty Dancing","Musicals","Shows","New York City","2008-04-24T00:00:00.000Z",4,63,52146
+"Miss Julie","Plays","Shows","New York City","2008-09-09T00:00:00.000Z",9,63,35500
+"Kiss","Pop","Concerts","Philadelphia","2008-10-08T00:00:00.000Z",10,63,46348
+"The Seagull","Plays","Shows","New York City","2008-03-05T00:00:00.000Z",3,63,56657
+"Rosencrantz and Guildenstern Are Dead","Plays","Shows","New York City","2008-07-10T00:00:00.000Z",7,63,50027
+"Dave Stewart","Pop","Concerts","Tampa","2008-10-24T00:00:00.000Z",10,63,44690
+"Charlie Daniels Band","Pop","Concerts","Redwood City","2008-07-12T00:00:00.000Z",7,63,32157
+"Queensryche","Pop","Concerts","St. Petersburg","2008-10-03T00:00:00.000Z",10,63,52337
+"Tesla","Pop","Concerts","Frisco","2008-04-24T00:00:00.000Z",4,63,36622
+"Young Frankenstein","Plays","Shows","Seattle","2008-10-03T00:00:00.000Z",10,63,47855
+"Kid Rock","Pop","Concerts","San Diego","2008-03-11T00:00:00.000Z",3,63,55221
+"Ben Folds","Pop","Concerts","Philadelphia","2008-07-03T00:00:00.000Z",7,63,37696
+"The Jesus and Mary Chain","Pop","Concerts","Green Bay","2008-05-31T00:00:00.000Z",5,63,68639
+"August: Osage County","Plays","Shows","New York City","2008-07-06T00:00:00.000Z",7,63,53368
+"The Police","Pop","Concerts","Glendale","2008-04-06T00:00:00.000Z",4,63,64882
+"Vince Gill","Pop","Concerts","Miami Gardens","2008-08-28T00:00:00.000Z",8,63,39342
+"Third Day","Pop","Concerts","East Rutherford","2008-10-29T00:00:00.000Z",10,63,48529
+"Passing Strange","Plays","Shows","New York City","2008-08-04T00:00:00.000Z",8,63,48488
+"Isaac Hayes","Pop","Concerts","San Jose","2008-04-24T00:00:00.000Z",4,63,43852
+"Julius Caesar","Plays","Shows","New York City","2008-11-02T00:00:00.000Z",11,63,42206
+"Young Frankenstein","Plays","Shows","New York City","2008-05-14T00:00:00.000Z",5,63,57506
+"Chicago","Musicals","Shows","San Francisco","2008-03-16T00:00:00.000Z",3,63,76303
+"High School Musical","Musicals","Shows","New York City","2008-07-20T00:00:00.000Z",7,63,91794
+"Young Frankenstein","Plays","Shows","New York City","2008-05-20T00:00:00.000Z",5,63,48727
+"70s Soul Jam","Pop","Concerts","Minneapolis","2008-06-17T00:00:00.000Z",6,63,58880
+"Endgame","Plays","Shows","New York City","2008-12-31T00:00:00.000Z",12,63,57111
+"Jill Scott","Pop","Concerts","New York City","2008-07-05T00:00:00.000Z",7,63,67616
+"Irish Tenors","Pop","Concerts","San Diego","2008-06-14T00:00:00.000Z",6,63,90290
+"The Caretaker","Plays","Shows","New York City","2008-08-21T00:00:00.000Z",8,63,40368
+"Gnarls Barkley","Pop","Concerts","Baltimore","2008-10-04T00:00:00.000Z",10,63,53189
+"Hamlet","Plays","Shows","New York City","2008-10-05T00:00:00.000Z",10,63,82378
+"Blue Man Group","Musicals","Shows","Las Vegas","2008-12-10T00:00:00.000Z",12,63,97500
+"Built To Spill","Pop","Concerts","Philadelphia","2008-10-21T00:00:00.000Z",10,63,52403
+"Def Leppard","Pop","Concerts","Commerce City","2008-04-06T00:00:00.000Z",4,63,38374
+"Hippiefest","Pop","Concerts","Landover","2008-05-31T00:00:00.000Z",5,63,51061
+"Eddie Vedder","Pop","Concerts","Cleveland","2008-12-03T00:00:00.000Z",12,63,47139
+"Salome","Opera","Shows","Los Angeles","2008-11-19T00:00:00.000Z",11,63,36921
+"Built To Spill","Pop","Concerts","Commerce City","2008-09-16T00:00:00.000Z",9,63,57796
+"Macbeth","Plays","Shows","New York City","2008-04-21T00:00:00.000Z",4,63,57724
+"Gypsy","Musicals","Shows","New York City","2008-04-02T00:00:00.000Z",4,63,50351
+"Shakira","Pop","Concerts","San Francisco","2008-06-24T00:00:00.000Z",6,63,36598
+"Marc Anthony","Pop","Concerts","Jacksonville","2008-04-09T00:00:00.000Z",4,63,38613
+"Kenny Wayne Shepherd","Pop","Concerts","New York City","2008-08-09T00:00:00.000Z",8,63,36891
+"A Doll's House","Plays","Shows","New York City","2008-09-19T00:00:00.000Z",9,63,52559
+"Dixie Chicks","Pop","Concerts","Arlington","2008-04-23T00:00:00.000Z",4,63,52573
+"Dave Matthews Band","Pop","Concerts","East Rutherford","2008-08-08T00:00:00.000Z",8,63,44730
+"Das Rheingold","Opera","Shows","New York City","2008-08-09T00:00:00.000Z",8,63,32408
+"Jason Aldean","Pop","Concerts","Glendale","2008-12-22T00:00:00.000Z",12,63,71545
+"Oliver!","Musicals","Shows","New York City","2008-06-03T00:00:00.000Z",6,63,66298
+"The Who","Pop","Concerts","Atlanta","2008-09-21T00:00:00.000Z",9,63,91150
+"Willie Nelson","Pop","Concerts","Baltimore","2008-04-23T00:00:00.000Z",4,63,27841
+"Uncle Vanya","Plays","Shows","New York City","2008-04-09T00:00:00.000Z",4,63,27481
+"Hedda Gabler","Plays","Shows","New York City","2008-06-18T00:00:00.000Z",6,63,59275
+"U2","Pop","Concerts","Kansas City","2008-12-25T00:00:00.000Z",12,63,44490
+"Eric Clapton","Pop","Concerts","Frisco","2008-05-14T00:00:00.000Z",5,63,63639
+"La Cenerentola (Cinderella)","Opera","Shows","Los Angeles","2008-10-23T00:00:00.000Z",10,62,57747
+"Merle Haggard","Pop","Concerts","Los Angeles","2008-11-05T00:00:00.000Z",11,62,45298
+"State Fair","Musicals","Shows","New York City","2008-07-20T00:00:00.000Z",7,62,36620
+"Eddie Vedder","Pop","Concerts","Phoenix","2008-03-01T00:00:00.000Z",3,62,45594
+"LeAnn Rimes","Pop","Concerts","Orlando","2008-11-14T00:00:00.000Z",11,62,38281
+"The Country Girl","Plays","Shows","New York City","2008-06-09T00:00:00.000Z",6,62,83333
+"Thurgood","Plays","Shows","Boston","2008-05-03T00:00:00.000Z",5,62,59802
+"Dropkick Murphys","Pop","Concerts","Minneapolis","2008-05-18T00:00:00.000Z",5,62,75142
+"Rhinoceros","Plays","Shows","Seattle","2008-07-10T00:00:00.000Z",7,62,38880
+"The Seagull","Plays","Shows","New York City","2008-12-05T00:00:00.000Z",12,62,74676
+"Zombies","Pop","Concerts","Redwood City","2008-04-06T00:00:00.000Z",4,62,44086
+"Glengarry Glen Ross","Plays","Shows","San Jose","2008-07-25T00:00:00.000Z",7,62,76132
+"Boyz II Men","Pop","Concerts","Santa Clara","2008-05-18T00:00:00.000Z",5,62,70200
+"Sugarland","Pop","Concerts","Detroit","2008-03-17T00:00:00.000Z",3,62,86393
+"Fergie","Pop","Concerts","Santa Clara","2008-10-27T00:00:00.000Z",10,62,56271
+"Spamalot","Musicals","Shows","Las Vegas","2008-07-03T00:00:00.000Z",7,62,40771
+"Led Zeppelin","Pop","Concerts","Washington","2008-05-09T00:00:00.000Z",5,62,52316
+"Memphis - The Birth of Rock n Roll","Musicals","Shows","New York City","2008-10-10T00:00:00.000Z",10,62,41686
+"Rusalka","Opera","Shows","San Francisco","2008-10-16T00:00:00.000Z",10,62,50270
+"Hall and Oates","Pop","Concerts","Glendale","2008-10-25T00:00:00.000Z",10,62,39413
+"Dolly Parton","Pop","Concerts","Oakland","2008-04-08T00:00:00.000Z",4,62,18382
+"Brad Paisley","Pop","Concerts","Commerce City","2008-12-29T00:00:00.000Z",12,62,33177
+"Spoon","Pop","Concerts","Miami Gardens","2008-06-20T00:00:00.000Z",6,62,85188
+"Enrique Iglesias","Pop","Concerts","San Diego","2008-09-29T00:00:00.000Z",9,62,88368
+"Hairspray","Musicals","Shows","New York City","2008-08-16T00:00:00.000Z",8,62,41728
+"Macbeth","Plays","Shows","New York City","2008-04-16T00:00:00.000Z",4,62,91310
+"Bryan Adams","Pop","Concerts","New York City","2008-03-17T00:00:00.000Z",3,62,84364
+"A Streetcar Named Desire","Plays","Shows","New York City","2008-03-11T00:00:00.000Z",3,62,57845
+"Sara Evans","Pop","Concerts","Cincinnati","2008-04-03T00:00:00.000Z",4,62,44000
+"Macbeth","Plays","Shows","New York City","2008-05-09T00:00:00.000Z",5,62,89415
+"South Pacific","Musicals","Shows","New York City","2008-06-22T00:00:00.000Z",6,62,34815
+"Frankie Valli","Pop","Concerts","Atlanta","2008-08-31T00:00:00.000Z",8,62,53950
+"Spring Awakening","Plays","Shows","New York City","2008-03-06T00:00:00.000Z",3,62,39192
+"Ted Nugent","Pop","Concerts","Glendale","2008-04-26T00:00:00.000Z",4,62,48034
+"El Monstero y Los Masked Avengers","Pop","Concerts","Cleveland","2008-08-02T00:00:00.000Z",8,62,85844
+"Nick Cave","Pop","Concerts","Nashville","2008-08-05T00:00:00.000Z",8,62,88361
+"Paul Weller","Pop","Concerts","Minneapolis","2008-12-04T00:00:00.000Z",12,62,46201
+"Spring Awakening","Plays","Shows","New York City","2008-11-05T00:00:00.000Z",11,62,52188
+"Grease","Musicals","Shows","New York City","2008-09-07T00:00:00.000Z",9,62,42413
+"Keith Urban","Pop","Concerts","Uniondale","2008-08-27T00:00:00.000Z",8,62,23989
+"Ted Nugent","Pop","Concerts","Charlotte","2008-07-23T00:00:00.000Z",7,62,48136
+"Mamma Mia!","Musicals","Shows","New York City","2008-05-08T00:00:00.000Z",5,62,58841
+"Loretta Lynn","Pop","Concerts","Cincinnati","2008-03-24T00:00:00.000Z",3,62,58733
+"Dj Tiesto","Pop","Concerts","Phoenix","2008-11-23T00:00:00.000Z",11,62,29431
+"Nine Inch Nails","Pop","Concerts","Chicago","2008-08-27T00:00:00.000Z",8,62,42724
+"Cirque du Soleil","Plays","Shows","New York City","2008-08-26T00:00:00.000Z",8,62,35279
+"Oedipus the King","Plays","Shows","New York City","2008-04-14T00:00:00.000Z",4,62,70317
+"Grease","Musicals","Shows","New York City","2008-09-22T00:00:00.000Z",9,62,44201
+"Pal Joey","Musicals","Shows","New York City","2008-05-03T00:00:00.000Z",5,62,73022
+"John Hiatt","Pop","Concerts","Indianapolis","2008-05-18T00:00:00.000Z",5,62,28812
+"Aretha Franklin","Pop","Concerts","Hershey","2008-08-04T00:00:00.000Z",8,62,29313
+"The Homecoming","Plays","Shows","New York City","2008-11-18T00:00:00.000Z",11,62,82136
+"Look Back in Anger","Plays","Shows","New York City","2008-06-17T00:00:00.000Z",6,62,42908
+"West Side Story","Musicals","Shows","New York City","2008-04-30T00:00:00.000Z",4,62,46597
+"South Pacific","Musicals","Shows","New York City","2008-05-11T00:00:00.000Z",5,62,50969
+"La Sonnambula","Opera","Shows","San Francisco","2008-06-01T00:00:00.000Z",6,62,36335
+"Emmylou Harris","Pop","Concerts","St. Petersburg","2008-12-22T00:00:00.000Z",12,62,38834
+"Idina Menzel","Pop","Concerts","East Rutherford","2008-09-15T00:00:00.000Z",9,62,35552
+"Simple Plan","Pop","Concerts","Minneapolis","2008-04-14T00:00:00.000Z",4,62,54476
+"Vanessa Hudgens","Pop","Concerts","Los Angeles","2008-11-05T00:00:00.000Z",11,62,35650
+"Sugarland","Pop","Concerts","Miami Gardens","2008-06-23T00:00:00.000Z",6,62,53099
+"Kool and The Gang","Pop","Concerts","Phoenix","2008-06-27T00:00:00.000Z",6,62,40492
+"The Caucasian Chalk Circle","Plays","Shows","New York City","2008-02-13T00:00:00.000Z",2,62,61596
+"Gordon Lightfoot","Pop","Concerts","Houston","2008-09-14T00:00:00.000Z",9,62,48126
+"Othello","Plays","Shows","New York City","2008-04-02T00:00:00.000Z",4,62,60767
+"The Seagull","Plays","Shows","New York City","2008-03-23T00:00:00.000Z",3,62,55295
+"Chicago","Musicals","Shows","New York City","2008-06-07T00:00:00.000Z",6,62,106577
+"November","Plays","Shows","New York City","2008-04-17T00:00:00.000Z",4,62,40803
+"Robert Cray Band","Pop","Concerts","Arlington","2008-04-10T00:00:00.000Z",4,62,53826
+"Britney Spears","Pop","Concerts","Newark","2008-05-24T00:00:00.000Z",5,62,47307
+"Bruce Hornsby","Pop","Concerts","Boston","2008-03-28T00:00:00.000Z",3,62,21269
+"Jersey Boys","Musicals","Shows","New York City","2008-05-14T00:00:00.000Z",5,62,46374
+"The Seagull","Plays","Shows","New York City","2008-07-08T00:00:00.000Z",7,62,44647
+"As You Like It","Plays","Shows","New York City","2008-03-21T00:00:00.000Z",3,62,52996
+"Shrek the Musical","Musicals","Shows","San Francisco","2008-07-09T00:00:00.000Z",7,62,41836
+"Seal","Pop","Concerts","Miami","2008-12-25T00:00:00.000Z",12,62,38015
+"November","Plays","Shows","Los Angeles","2008-03-17T00:00:00.000Z",3,62,43372
+"The Lion King","Musicals","Shows","New York City","2008-04-03T00:00:00.000Z",4,62,57214
+"A Bronx Tale","Plays","Shows","New York City","2008-07-20T00:00:00.000Z",7,62,33043
+"Tristan und Isolde","Opera","Shows","Denver","2008-12-09T00:00:00.000Z",12,62,46385
+"Gwen Stefani","Pop","Concerts","Columbus","2008-05-24T00:00:00.000Z",5,61,21698
+"The Bacchae","Plays","Shows","New York City","2008-04-27T00:00:00.000Z",4,61,39369
+"The Homecoming","Plays","Shows","Los Angeles","2008-05-01T00:00:00.000Z",5,61,67926
+"Gypsy","Musicals","Shows","New York City","2008-10-31T00:00:00.000Z",10,61,34471
+"Joe Cocker","Pop","Concerts","Arlington","2008-11-23T00:00:00.000Z",11,61,35256
+"Toby Keith","Pop","Concerts","Portland","2008-10-25T00:00:00.000Z",10,61,39562
+"Temptations","Pop","Concerts","East Rutherford","2008-06-02T00:00:00.000Z",6,61,28661
+"Iron and Wine","Pop","Concerts","Dayton","2008-12-04T00:00:00.000Z",12,61,40058
+"Etta James","Pop","Concerts","Edmonton","2008-12-22T00:00:00.000Z",12,61,75981
+"Billy Joel","Pop","Concerts","Newark","2008-04-29T00:00:00.000Z",4,61,33946
+"Tina Turner","Pop","Concerts","St. Louis","2008-08-17T00:00:00.000Z",8,61,44125
+"Flogging Molly","Pop","Concerts","Dallas","2008-09-06T00:00:00.000Z",9,61,49030
+"Grease","Musicals","Shows","New York City","2008-09-02T00:00:00.000Z",9,61,42942
+"The Seagull","Plays","Shows","New York City","2008-03-20T00:00:00.000Z",3,61,41250
+"Manhattan Transfer","Pop","Concerts","Boston","2008-09-25T00:00:00.000Z",9,61,37490
+"Voodoo Music Experience","Pop","Concerts","Phoenix","2008-08-22T00:00:00.000Z",8,61,39831
+"The Country Girl","Plays","Shows","New York City","2008-03-06T00:00:00.000Z",3,61,38963
+"Jerry Jeff Walker","Pop","Concerts","Houston","2008-12-19T00:00:00.000Z",12,61,35266
