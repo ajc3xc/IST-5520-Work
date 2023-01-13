@@ -16,7 +16,7 @@ This includes homework programming tasks, and the group project for the class wh
 <br/><br/>
 
 ## Homework Programming Tasks
-- __[Homework 4]([Homework Programming Tasks](https://github.com/ajc3xc/IST-5520-Work/tree/main/Homework%20Programming%20Tasks/Homework%204%20Programming))__
+- __([Homework 4](https://github.com/ajc3xc/IST-5520-Work/tree/main/Homework%20Programming%20Tasks/Homework%204%20Programming))__
 - __[Homework 5](Homework Programming Tasks)__
 - __[Homework 6]()__
 - __[Homework 7]()__
