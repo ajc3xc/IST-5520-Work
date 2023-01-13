@@ -7,4 +7,4 @@ This includes homework files, and the group project for the class which I contri
 <br/><br/>
 
 ## Group Project
-- __[Milestone 1](Group Project/Milestone1)__
+- __[Milestone 1](Milestone1)__
