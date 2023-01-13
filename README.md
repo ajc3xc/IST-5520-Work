@@ -3,10 +3,13 @@
 
 # IST-5520-Work
 This is a repository of all the IST 5520 work stored on DataCamp. <br/>
-This includes homework files, and the group project for the class which I contributed to for Milestone 2 and Milestone 3<br/>
+This includes homework programming tasks, and the group project for the class which I contributed to for Milestone 2 and Milestone 3<br/>
 
 <br/><br/>
 
 ## Group Project
-- __[Literature]__
+- __[Literature](https://github.com/ajc3xc/IST-5520-Work/tree/main/Group-Project/Literature)__
 - __[Milestone 1](https://github.com/ajc3xc/IST-5520-Work/tree/main/Group-Project/Milestone1)__
+- __[Milestone 2](https://github.com/ajc3xc/IST-5520-Work/tree/main/Group-Project/Milestone2)__
+- __[Milestone 3](https://github.com/ajc3xc/IST-5520-Work/tree/main/Group-Project/Milestone3)__
+- __[Milestone 4](https://github.com/ajc3xc/IST-5520-Work/tree/main/Group-Project/Milestone4)__
