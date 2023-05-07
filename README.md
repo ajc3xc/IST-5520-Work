@@ -4,6 +4,7 @@
 # IST-5520-Work
 This is a repository of all the IST 5520 work stored on DataCamp. <br/>
 This includes homework programming tasks, and the group project for the class which I contributed to for Milestone 2 and Milestone 3<br/>
+Done Fall 2022
 
 <br/><br/>
 
